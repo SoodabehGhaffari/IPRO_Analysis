@@ -1,0 +1,2722 @@
+  initial calculations -5.320  -13222.500 
+initial->1['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -104.690 , -14658.400 
+initial->2['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -90.850 , -15203.000 
+initial->3['48 in Molecule A: PHE']: -66.770 , -13614.100 
+initial->4['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 17.130 , -13773.400 
+initial->5['80 in Molecule A: TRP', '81 in Molecule A: GLY']: -181.710 , -14809.000 
+initial->6['199 in Molecule A: MET']: 41.960 , -13763.300 
+initial->7['79 in Molecule A: GLY', '80 in Molecule A: PHE']: 43.610 , -14267.600 
+initial->8['129 in Molecule A: GLY', '130 in Molecule A: PHE']: 49.670 , -13098.200 
+5->9['199 in Molecule A: LYS']: -74.180 , -14504.200 
+5->10['112 in Molecule A: GLY']: -203.840 , -14799.200 
+5->11['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -144.630 , -14238.000 
+initial->12['199 in Molecule A: MET']: 9.660 , -14604.600 
+5->13['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -318.090 , -15426.000 
+5->14['130 in Molecule A: ILE']: -175.480 , -15288.500 
+10->15['100 in Molecule A: GLY']: -234.040 , -15049.900 
+10->16['199 in Molecule A: LYS']: -265.450 , -15145.300 
+10->17['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -15.630 , -13561.500 
+10->18['74 in Molecule A: LYS']: -1.650 , -14596.900 
+10->19['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: TRP']: -243.540 , -14095.500 
+10->20['100 in Molecule A: GLY']: 63.860 , -14735.000 
+10->21['48 in Molecule A: TRP']: -193.070 , -14580.000 
+10->22['130 in Molecule A: TRP']: -22.140 , -14410.100 
+10->23['78 in Molecule A: ARG']: -362.400 , -15237.100 
+10->24['79 in Molecule A: GLY', '80 in Molecule A: TRP', '81 in Molecule A: GLY']: -281.770 , -14211.100 
+10->25['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -276.910 , -14125.600 
+10->26['74 in Molecule A: LYS']: -149.480 , -14995.400 
+10->27['100 in Molecule A: GLY']: -178.510 , -15023.900 
+10->28['108 in Molecule A: GLY']: 126.210 , -14227.700 
+10->29['74 in Molecule A: LYS']: -5.200 , -14559.700 
+10->30['80 in Molecule A: TRP']: -326.470 , -14988.000 
+10->31['199 in Molecule A: LYS']: 59.640 , -14890.500 
+10->32['110 in Molecule A: GLY']: -85.460 , -14826.000 
+10->33['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -238.000 , -15091.700 
+10->34['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -243.550 , -14758.200 
+10->35['74 in Molecule A: LYS']: -52.520 , -14415.500 
+10->36['79 in Molecule A: GLY']: -209.340 , -14069.800 
+10->37['108 in Molecule A: GLY']: -212.230 , -14608.100 
+10->38['100 in Molecule A: GLY']: -247.040 , -15003.100 
+10->39['79 in Molecule A: GLY']: -291.410 , -14478.400 
+10->40['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -230.910 , -14952.400 
+10->41['26 in Molecule A: GLY']: -109.090 , -15027.900 
+10->42['199 in Molecule A: LYS']: -181.720 , -14866.900 
+10->43['112 in Molecule A: GLY']: -185.540 , -14788.000 
+10->44['110 in Molecule A: GLY']: -229.370 , -14804.900 
+10->45['130 in Molecule A: TRP']: -140.660 , -14458.000 
+10->46['79 in Molecule A: GLY', '80 in Molecule A: TRP', '81 in Molecule A: GLY']: -268.430 , -14245.800 
+10->47['112 in Molecule A: GLY']: 16.770 , -14906.600 
+10->48['110 in Molecule A: GLY']: -267.790 , -14991.000 
+10->49['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -205.720 , -14070.500 
+10->50['199 in Molecule A: LYS']: -30.880 , -14026.700 
+10->51['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -181.990 , -14440.200 
+10->52['26 in Molecule A: GLY']: -216.960 , -14862.000 
+10->53['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -241.210 , -15076.200 
+10->54['74 in Molecule A: LYS']: -87.960 , -14520.100 
+10->55['81 in Molecule A: GLY']: -244.660 , -14528.100 
+10->56['199 in Molecule A: LYS']: -206.050 , -14674.800 
+10->57['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -105.480 , -13599.600 
+10->58['108 in Molecule A: GLY']: -217.350 , -14963.400 
+10->59['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -103.020 , -13958.400 
+55->60['100 in Molecule A: GLY']: -273.810 , -14827.600 
+55->61['74 in Molecule A: LYS']: -187.190 , -14755.900 
+55->62['26 in Molecule A: GLY']: -222.490 , -14528.100 
+55->63['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -229.500 , -14387.400 
+55->64['199 in Molecule A: LYS']: -268.280 , -14790.400 
+55->65['108 in Molecule A: GLY']: -211.920 , -14373.900 
+55->66['129 in Molecule A: GLY']: -192.190 , -14708.400 
+55->67['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -273.720 , -14364.400 
+55->68['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -366.240 , -14400.500 
+55->69['100 in Molecule A: GLY']: -214.580 , -14126.900 
+55->70['74 in Molecule A: LYS']: -281.800 , -15111.300 
+55->71['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -227.690 , -14344.800 
+55->72['129 in Molecule A: GLY']: -173.820 , -14642.200 
+55->73['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -307.630 , -14711.300 
+55->74['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 14.970 , -13952.900 
+55->75['74 in Molecule A: LYS']: -79.190 , -14540.900 
+55->76['108 in Molecule A: GLY']: -322.040 , -15006.500 
+55->77['81 in Molecule A: GLY']: -4.970 , -14065.000 
+55->78['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -237.500 , -14650.800 
+55->79['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -304.560 , -14578.300 
+55->80['48 in Molecule A: TRP']: 54.230 , -14037.800 
+55->81['48 in Molecule A: TRP']: -295.260 , -14670.700 
+55->82['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -50.550 , -14097.300 
+55->83['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -298.980 , -14605.800 
+55->84['26 in Molecule A: GLY']: -226.260 , -14351.000 
+55->85['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -294.000 , -14340.500 
+55->86['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -201.490 , -14613.000 
+55->87['80 in Molecule A: GLY']: -273.560 , -14826.300 
+55->88['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -202.020 , -14436.600 
+55->89['129 in Molecule A: GLY']: -14.580 , -14301.100 
+55->90['110 in Molecule A: GLY']: -226.270 , -14276.700 
+55->91['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -318.060 , -14485.600 
+55->92['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -30.880 , -13517.900 
+55->93['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -261.140 , -14842.000 
+55->94['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: TRP', '81 in Molecule A: GLY']: 132.020 , -13519.600 
+55->95['100 in Molecule A: GLY']: -238.590 , -15324.000 
+55->96['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -308.160 , -14365.900 
+55->97['48 in Molecule A: TRP']: -308.140 , -14856.100 
+55->98['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -206.850 , -14140.400 
+55->99['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -264.320 , -14776.000 
+55->100['80 in Molecule A: TRP']: -282.270 , -15268.500 
+55->101['108 in Molecule A: GLY']: -296.880 , -15066.400 
+55->102['26 in Molecule A: GLY']: -55.960 , -14639.200 
+55->103['26 in Molecule A: GLY']: -332.610 , -15004.400 
+55->104['112 in Molecule A: GLY']: -236.830 , -15099.600 
+55->105['74 in Molecule A: LYS']: -148.150 , -14634.500 
+55->106['112 in Molecule A: GLY']: -64.460 , -14797.700 
+55->107['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -314.020 , -14919.500 
+55->108['110 in Molecule A: GLY']: -278.590 , -14870.900 
+55->109['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -89.890 , -13914.500 
+55->110['199 in Molecule A: LYS']: -11.150 , -14023.500 
+55->111['199 in Molecule A: LYS']: -216.390 , -14409.400 
+55->112['100 in Molecule A: GLY']: -289.320 , -14736.100 
+55->113['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -84.840 , -13942.200 
+55->114['112 in Molecule A: GLY']: -232.080 , -14733.500 
+55->115['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -248.740 , -14580.900 
+55->116['108 in Molecule A: GLY']: -73.430 , -14868.300 
+55->117['26 in Molecule A: GLY']: -320.820 , -15082.700 
+55->118['26 in Molecule A: GLY']: -290.300 , -14845.800 
+55->119['108 in Molecule A: GLY']: -55.970 , -14609.100 
+55->120['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -355.470 , -14684.300 
+55->121['48 in Molecule A: TRP']: -308.500 , -15227.900 
+55->122['129 in Molecule A: GLY', '130 in Molecule A: TRP']: 142.860 , -13669.100 
+55->123['112 in Molecule A: GLY']: -300.220 , -15106.400 
+55->124['112 in Molecule A: GLY']: -298.150 , -14986.500 
+55->125['108 in Molecule A: GLY']: -101.690 , -14774.400 
+55->126['100 in Molecule A: GLY']: -279.540 , -15458.900 
+55->127['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -143.680 , -14449.000 
+55->128['79 in Molecule A: GLY']: -307.610 , -14446.200 
+55->129['79 in Molecule A: GLY']: -228.590 , -14073.500 
+55->130['129 in Molecule A: GLY', '130 in Molecule A: ILE']: -147.130 , -14670.000 
+55->131['100 in Molecule A: GLY']: -207.470 , -14658.700 
+55->132['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -260.900 , -14676.500 
+55->133['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -274.860 , -14569.300 
+55->134['79 in Molecule A: GLY']: 217.300 , -13301.300 
+55->135['79 in Molecule A: GLY']: -262.330 , -14098.700 
+55->136['108 in Molecule A: GLY']: -406.270 , -15073.100 
+55->137['78 in Molecule A: ARG']: -291.030 , -14765.700 
+55->138['199 in Molecule A: LYS']: -85.020 , -14422.100 
+55->139['112 in Molecule A: GLY']: -227.000 , -14692.800 
+55->140['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -287.710 , -14091.800 
+55->141['130 in Molecule A: TRP']: -235.170 , -14526.800 
+55->142['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 8.390 , -14104.900 
+55->143['48 in Molecule A: TRP']: -307.660 , -15205.600 
+55->144['129 in Molecule A: GLY']: -191.840 , -14837.800 
+55->145['108 in Molecule A: GLY']: -37.610 , -14432.200 
+55->146['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -268.460 , -14746.300 
+55->147['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -323.690 , -14436.000 
+55->148['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -159.930 , -14878.700 
+55->149['129 in Molecule A: GLY', '130 in Molecule A: ILE']: -200.420 , -14768.600 
+55->150['48 in Molecule A: TRP']: -316.020 , -15057.200 
+55->151['26 in Molecule A: GLY']: -101.940 , -14829.400 
+55->152['129 in Molecule A: GLY', '130 in Molecule A: ILE']: -189.040 , -14564.200 
+55->153['130 in Molecule A: TRP']: -226.340 , -14579.100 
+55->154['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: TRP']: -287.580 , -14622.700 
+55->155['74 in Molecule A: LYS']: 66.980 , -14185.300 
+55->156['112 in Molecule A: GLY']: -100.130 , -14533.500 
+55->157['48 in Molecule A: TRP']: -289.200 , -14210.400 
+55->158['100 in Molecule A: GLY']: -277.910 , -14583.100 
+55->159['100 in Molecule A: GLY']: -307.350 , -14667.400 
+55->160['81 in Molecule A: GLY']: -303.620 , -14878.300 
+55->161['48 in Molecule A: TRP']: -317.540 , -15346.100 
+55->162['48 in Molecule A: TRP']: -316.830 , -14931.500 
+55->163['78 in Molecule A: LYS']: -359.770 , -14374.800 
+55->164['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -167.740 , -14586.200 
+55->165['48 in Molecule A: TRP']: -333.480 , -15355.900 
+55->166['100 in Molecule A: GLY']: -295.720 , -15335.300 
+55->167['108 in Molecule A: GLY']: -52.310 , -14543.200 
+55->168['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: TRP']: -291.270 , -14545.700 
+55->169['81 in Molecule A: GLY']: -318.610 , -15099.000 
+55->170['100 in Molecule A: GLY']: -293.870 , -14646.300 
+55->171['112 in Molecule A: GLY']: 22.880 , -14627.000 
+55->172['26 in Molecule A: GLY']: -302.250 , -14928.600 
+55->173['26 in Molecule A: GLY']: -331.770 , -15173.500 
+55->174['81 in Molecule A: GLY']: -347.070 , -14848.000 
+55->175['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -41.280 , -14173.900 
+55->176['130 in Molecule A: TRP']: -231.980 , -14315.400 
+55->177['108 in Molecule A: GLY']: -311.260 , -14995.600 
+55->178['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -122.150 , -14093.000 
+55->179['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 79.910 , -14237.000 
+55->180['112 in Molecule A: GLY']: -271.610 , -15048.800 
+55->181['74 in Molecule A: LYS']: -78.810 , -14498.000 
+55->182['48 in Molecule A: TRP']: -127.870 , -13996.400 
+55->183['108 in Molecule A: GLY']: -212.000 , -14351.600 
+55->184['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -74.760 , -13993.200 
+55->185['199 in Molecule A: LYS']: -244.270 , -14485.000 
+55->186['130 in Molecule A: TRP']: -164.520 , -14583.500 
+55->187['112 in Molecule A: GLY']: -51.120 , -14783.800 
+55->188['129 in Molecule A: GLY']: -163.130 , -14710.100 
+55->189['100 in Molecule A: GLY']: -305.470 , -15231.200 
+55->190['130 in Molecule A: TRP']: -162.070 , -14781.600 
+55->191['78 in Molecule A: LYS']: 194.300 , -13484.200 
+55->192['110 in Molecule A: GLY']: -278.400 , -14809.800 
+55->193['74 in Molecule A: LYS']: -72.620 , -14687.300 
+55->194['129 in Molecule A: GLY']: -179.600 , -14778.500 
+55->195['26 in Molecule A: GLY']: -319.620 , -14894.600 
+55->196['81 in Molecule A: GLY']: -103.600 , -14414.500 
+55->197['199 in Molecule A: LYS']: -178.270 , -14355.100 
+55->198['199 in Molecule A: LYS']: -248.170 , -14286.500 
+55->199['110 in Molecule A: GLY']: -62.680 , -14720.000 
+55->200['48 in Molecule A: TRP']: -316.770 , -14993.700 
+55->201['199 in Molecule A: LYS']: -222.060 , -14690.800 
+55->202['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -291.640 , -14618.400 
+55->203['78 in Molecule A: LYS']: 94.990 , -13670.300 
+55->204['48 in Molecule A: TRP']: -301.060 , -14732.900 
+55->205['129 in Molecule A: GLY']: -45.860 , -14535.200 
+55->206['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -332.580 , -14491.500 
+55->207['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -275.120 , -14904.000 
+55->208['112 in Molecule A: GLY']: -265.090 , -14955.000 
+55->209['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -130.590 , -14354.300 
+55->210['79 in Molecule A: GLY']: -309.720 , -14471.100 
+55->211['48 in Molecule A: TRP']: -306.650 , -15102.200 
+55->212['110 in Molecule A: GLY']: -227.530 , -14346.300 
+55->213['79 in Molecule A: GLY']: -124.940 , -13840.200 
+55->214['110 in Molecule A: GLY']: -293.070 , -14746.200 
+55->215['129 in Molecule A: GLY']: -128.060 , -14591.500 
+55->216['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -287.320 , -14778.100 
+55->217['79 in Molecule A: GLY', '80 in Molecule A: TRP', '81 in Molecule A: GLY']: -274.100 , -14045.000 
+55->218['100 in Molecule A: GLY']: -139.780 , -14380.200 
+55->219['108 in Molecule A: GLY']: -50.610 , -14398.400 
+55->220['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -223.760 , -14663.600 
+55->221['48 in Molecule A: TRP']: -282.620 , -15121.300 
+55->222['199 in Molecule A: TRP']: -75.540 , -14371.400 
+55->223['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -245.830 , -14930.500 
+55->224['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -317.010 , -14165.800 
+55->225['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -367.870 , -14352.500 
+55->226['108 in Molecule A: GLY']: -245.180 , -15624.000 
+55->227['26 in Molecule A: GLY']: -231.690 , -14211.900 
+55->228['48 in Molecule A: TRP']: -283.900 , -14461.200 
+55->229['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -333.580 , -14357.000 
+55->230['26 in Molecule A: GLY']: -209.200 , -14535.100 
+55->231['48 in Molecule A: TRP']: -283.460 , -15268.200 
+55->232['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -297.620 , -14623.700 
+55->233['26 in Molecule A: GLY']: -231.670 , -14236.600 
+55->234['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -22.740 , -14170.800 
+55->235['100 in Molecule A: GLY']: -280.010 , -14847.400 
+55->236['129 in Molecule A: GLY', '130 in Molecule A: ILE']: -174.250 , -14605.300 
+55->237['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -285.670 , -14278.800 
+55->238['108 in Molecule A: GLY']: -50.900 , -14542.300 
+55->239['108 in Molecule A: GLY']: -273.760 , -14956.400 
+55->240['129 in Molecule A: GLY', '130 in Molecule A: ILE']: -269.820 , -15074.500 
+55->241['26 in Molecule A: GLY']: -241.120 , -14868.400 
+55->242['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 149.210 , -13965.100 
+55->243['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -173.820 , -14410.000 
+55->244['112 in Molecule A: GLY']: -88.000 , -14885.000 
+55->245['129 in Molecule A: GLY', '130 in Molecule A: MET']: -237.670 , -14682.100 
+55->246['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -247.630 , -14601.100 
+55->247['79 in Molecule A: GLY']: -257.750 , -13903.400 
+55->248['110 in Molecule A: GLY']: -268.650 , -14761.700 
+55->249['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -297.470 , -14507.100 
+55->250['78 in Molecule A: ARG']: -244.490 , -14813.400 
+55->251['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -268.410 , -14654.800 
+55->252['108 in Molecule A: GLY']: -273.500 , -14889.200 
+55->253['129 in Molecule A: GLY', '130 in Molecule A: ILE']: -83.440 , -14506.200 
+55->254['100 in Molecule A: GLY']: 148.560 , -14249.500 
+55->255['112 in Molecule A: GLY']: -276.930 , -15075.900 
+55->256['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -259.750 , -14562.400 
+55->257['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -10.710 , -14079.500 
+55->258['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -145.080 , -14395.400 
+55->259['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: TRP', '81 in Molecule A: GLY']: -275.210 , -14147.000 
+55->260['48 in Molecule A: TRP']: -117.670 , -14540.900 
+55->261['129 in Molecule A: GLY', '130 in Molecule A: ILE']: 0.440 , -14365.300 
+55->262['108 in Molecule A: GLY']: -211.770 , -14374.500 
+55->263['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -267.970 , -14404.700 
+55->264['100 in Molecule A: GLY']: -276.950 , -14698.000 
+55->265['48 in Molecule A: TRP']: -302.060 , -15094.800 
+55->266['108 in Molecule A: GLY']: -200.410 , -14731.700 
+55->267['79 in Molecule A: GLY']: -254.430 , -14119.500 
+55->268['100 in Molecule A: GLY']: -205.360 , -14866.800 
+55->269['80 in Molecule A: TRP']: -245.980 , -14652.900 
+55->270['48 in Molecule A: TRP']: -330.550 , -15066.300 
+55->271['80 in Molecule A: GLY']: -302.140 , -14713.000 
+55->272['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -297.920 , -14661.700 
+55->273['100 in Molecule A: GLY']: -289.770 , -14921.100 
+55->274['80 in Molecule A: GLY']: -91.280 , -14246.300 
+55->275['81 in Molecule A: GLY']: -303.110 , -14563.700 
+55->276['74 in Molecule A: LYS']: -123.860 , -14491.300 
+55->277['110 in Molecule A: GLY']: 204.100 , -13713.600 
+55->278['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -179.920 , -14407.400 
+55->279['26 in Molecule A: GLY']: -304.020 , -15023.400 
+55->280['78 in Molecule A: ARG']: -300.420 , -14846.400 
+55->281['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -215.470 , -14878.700 
+55->282['110 in Molecule A: GLY']: -222.180 , -14252.000 
+55->283['199 in Molecule A: LYS']: -13.220 , -13961.300 
+55->284['199 in Molecule A: LYS']: -215.790 , -14761.300 
+55->285['74 in Molecule A: LYS']: -131.500 , -14515.600 
+55->286['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -320.260 , -14462.300 
+55->287['81 in Molecule A: GLY']: 32.920 , -14168.800 
+55->288['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -318.390 , -14307.700 
+55->289['112 in Molecule A: GLY']: -324.960 , -14987.100 
+55->290['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -50.000 , -14211.300 
+55->291['199 in Molecule A: LYS']: -82.940 , -14343.400 
+55->292['112 in Molecule A: GLY']: -263.190 , -15053.700 
+55->293['108 in Molecule A: GLY']: 43.110 , -14539.800 
+55->294['112 in Molecule A: GLY']: -316.440 , -14997.200 
+55->295['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -320.280 , -14872.100 
+55->296['129 in Molecule A: GLY']: 6.500 , -14118.500 
+55->297['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -294.400 , -14444.800 
+55->298['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -281.110 , -14629.500 
+55->299['48 in Molecule A: TRP']: -252.370 , -14858.000 
+55->300['80 in Molecule A: GLY']: -295.520 , -14637.800 
+55->301['108 in Molecule A: GLY']: -254.420 , -15020.500 
+55->302['129 in Molecule A: GLY', '130 in Molecule A: ILE']: -235.460 , -14738.900 
+55->303['48 in Molecule A: TRP']: -279.960 , -14590.900 
+55->304['130 in Molecule A: TRP']: -290.910 , -14640.700 
+55->305['74 in Molecule A: LYS']: -151.600 , -14653.200 
+55->306['100 in Molecule A: GLY']: -305.860 , -14865.100 
+55->307['74 in Molecule A: LYS']: -77.380 , -13924.100 
+55->308['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: TRP', '81 in Molecule A: GLY']: -25.680 , -13817.000 
+55->309['74 in Molecule A: LYS']: -152.180 , -14708.100 
+55->310['74 in Molecule A: LYS']: 266.240 , -13995.200 
+55->311['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -107.320 , -13982.100 
+55->312['26 in Molecule A: GLY']: -226.390 , -14266.500 
+55->313['48 in Molecule A: TRP']: -310.530 , -14844.300 
+55->314['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 67.710 , -14044.700 
+55->315['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -312.340 , -14354.700 
+55->316['100 in Molecule A: GLY']: -291.350 , -14790.000 
+55->317['79 in Molecule A: GLY', '80 in Molecule A: TRP']: -90.950 , -14198.900 
+55->318['80 in Molecule A: TRP', '81 in Molecule A: GLY']: -274.450 , -14743.600 
+55->319['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -283.470 , -14159.500 
+55->320['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -270.710 , -14564.000 
+55->321['110 in Molecule A: GLY']: -306.270 , -14863.900 
+55->322['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -298.900 , -14259.700 
+55->323['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 70.520 , -14110.600 
+320->324['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -364.580 , -14676.400 
+320->325['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -341.270 , -14747.300 
+55->326['112 in Molecule A: GLY']: -60.550 , -14658.500 
+320->327['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -319.280 , -14319.100 
+320->328['48 in Molecule A: TRP']: -340.170 , -14844.600 
+320->329['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 29.380 , -13863.400 
+320->330['48 in Molecule A: TRP']: -342.870 , -14813.400 
+320->331['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -352.620 , -14866.700 
+320->332['110 in Molecule A: GLY']: -262.910 , -14896.000 
+320->333['110 in Molecule A: GLY']: -317.030 , -14456.600 
+320->334['48 in Molecule A: TRP']: -328.160 , -14897.200 
+320->335['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -108.170 , -14242.500 
+332->336['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -180.100 , -14693.100 
+332->337['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -221.580 , -14948.000 
+320->338['48 in Molecule A: TRP']: 160.550 , -14267.300 
+332->339['79 in Molecule A: GLY']: -265.540 , -15197.500 
+332->340['129 in Molecule A: GLY', '130 in Molecule A: MET']: -153.720 , -15011.400 
+332->341['80 in Molecule A: GLY']: 507.510 , -13717.000 
+332->342['26 in Molecule A: GLY']: -227.700 , -14770.700 
+332->343['129 in Molecule A: GLY', '130 in Molecule A: MET']: -194.830 , -14563.600 
+332->344['81 in Molecule A: GLY']: 304.860 , -14236.800 
+332->345['130 in Molecule A: MET']: -108.390 , -14876.300 
+332->346['129 in Molecule A: GLY', '130 in Molecule A: MET']: -249.750 , -14514.500 
+332->347['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -153.360 , -14648.100 
+332->348['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -235.560 , -14980.100 
+332->349['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -232.030 , -14563.800 
+332->350['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -248.380 , -14603.600 
+332->351['129 in Molecule A: GLY']: -317.070 , -15044.200 
+332->352['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -161.570 , -14359.200 
+332->353['112 in Molecule A: GLY']: 170.860 , -14562.800 
+332->354['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -227.660 , -14566.900 
+332->355['48 in Molecule A: TRP']: -198.710 , -14373.400 
+332->356['112 in Molecule A: GLY']: -221.530 , -15081.500 
+332->357['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -245.320 , -14811.700 
+332->358['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 113.340 , -13982.700 
+332->359['26 in Molecule A: GLY']: 155.600 , -14120.800 
+332->360['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -110.300 , -14475.400 
+332->361['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -194.190 , -14674.600 
+332->362['112 in Molecule A: GLY']: 393.450 , -14321.100 
+332->363['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -211.370 , -14673.000 
+332->364['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 171.050 , -13842.300 
+332->365['74 in Molecule A: LYS']: -59.820 , -14814.900 
+332->366['108 in Molecule A: GLY']: -257.930 , -14635.500 
+332->367['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -234.680 , -14700.400 
+332->368['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -134.350 , -14788.400 
+332->369['48 in Molecule A: TRP']: 469.110 , -13556.600 
+332->370['78 in Molecule A: ARG']: -160.970 , -14621.300 
+332->371['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: 50.700 , -14244.700 
+332->372['199 in Molecule A: LYS']: -29.070 , -14639.900 
+332->373['100 in Molecule A: GLY']: -185.240 , -14640.700 
+332->374['48 in Molecule A: TRP']: -122.570 , -14273.700 
+332->375['112 in Molecule A: GLY']: -231.370 , -14931.500 
+332->376['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -151.890 , -14466.300 
+332->377['79 in Molecule A: GLY']: 111.640 , -14472.700 
+332->378['48 in Molecule A: TRP']: -205.430 , -14096.900 
+332->379['199 in Molecule A: LYS']: -10.180 , -14928.600 
+332->380['74 in Molecule A: LYS']: 116.060 , -14291.000 
+332->381['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -226.990 , -14940.900 
+332->382['74 in Molecule A: LYS']: -140.850 , -14620.300 
+332->383['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -59.400 , -14145.600 
+332->384['108 in Molecule A: GLY']: -240.060 , -14642.000 
+332->385['79 in Molecule A: GLY']: -252.030 , -14760.700 
+332->386['130 in Molecule A: MET']: 49.430 , -14413.400 
+332->387['80 in Molecule A: GLY']: -250.460 , -14762.700 
+332->388['100 in Molecule A: GLY']: -232.100 , -14682.000 
+332->389['26 in Molecule A: GLY']: 419.830 , -14274.400 
+332->390['74 in Molecule A: LYS']: -97.020 , -14764.000 
+332->391['199 in Molecule A: LYS']: -70.060 , -14557.400 
+332->392['129 in Molecule A: GLY', '130 in Molecule A: MET']: -167.850 , -14882.800 
+332->393['112 in Molecule A: GLY']: 227.550 , -14311.600 
+332->394['110 in Molecule A: GLY']: -282.330 , -14245.700 
+332->395['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -255.410 , -15104.200 
+332->396['199 in Molecule A: LYS']: -21.350 , -14603.000 
+332->397['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -244.070 , -15011.600 
+332->398['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -206.850 , -15081.800 
+332->399['74 in Molecule A: LYS']: 124.010 , -14477.900 
+332->400['199 in Molecule A: LYS']: 22.430 , -14593.400 
+332->401['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 454.910 , -13605.400 
+332->402['78 in Molecule A: ARG']: -140.090 , -14544.500 
+332->403['129 in Molecule A: GLY', '130 in Molecule A: MET']: -177.460 , -14341.100 
+332->404['108 in Molecule A: GLY']: -242.590 , -14545.100 
+332->405['108 in Molecule A: GLY']: -264.650 , -14847.500 
+332->406['100 in Molecule A: GLY']: 479.530 , -13899.100 
+332->407['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 241.080 , -13811.500 
+332->408['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -88.860 , -14705.500 
+405->409['110 in Molecule A: GLY']: -179.910 , -14582.100 
+332->410['108 in Molecule A: GLY']: 19.660 , -14516.200 
+405->411['110 in Molecule A: GLY']: -220.230 , -14803.300 
+405->412['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -168.930 , -14567.200 
+405->413['48 in Molecule A: TRP']: -352.620 , -14468.200 
+405->414['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -212.360 , -14838.800 
+405->415['100 in Molecule A: GLY']: -164.520 , -14605.300 
+405->416['81 in Molecule A: GLY']: -264.110 , -15018.500 
+405->417['199 in Molecule A: LYS']: 57.450 , -14581.700 
+405->418['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -306.060 , -14693.500 
+405->419['199 in Molecule A: LYS']: 132.090 , -14455.500 
+405->420['74 in Molecule A: LYS']: -244.930 , -14688.000 
+405->421['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -177.500 , -14407.600 
+405->422['112 in Molecule A: GLY']: 191.200 , -14355.600 
+405->423['130 in Molecule A: MET']: -150.400 , -14526.300 
+405->424['74 in Molecule A: LYS']: -182.930 , -14760.200 
+405->425['26 in Molecule A: GLY']: 62.420 , -14421.500 
+405->426['110 in Molecule A: GLY']: -149.160 , -14850.100 
+405->427['130 in Molecule A: TRP']: -140.820 , -14289.700 
+405->428['129 in Molecule A: GLY']: -271.660 , -14723.000 
+405->429['129 in Molecule A: GLY']: 300.200 , -14232.000 
+405->430['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -145.810 , -14565.100 
+405->431['112 in Molecule A: GLY']: 77.890 , -14371.500 
+405->432['108 in Molecule A: GLY']: -235.090 , -14395.100 
+405->433['199 in Molecule A: LYS']: -38.770 , -14904.700 
+405->434['130 in Molecule A: MET']: -290.850 , -14667.100 
+405->435['130 in Molecule A: MET']: -95.890 , -14374.300 
+405->436['48 in Molecule A: TRP']: -138.670 , -14556.100 
+405->437['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 252.190 , -14211.900 
+434->438['108 in Molecule A: GLY']: -202.700 , -14854.200 
+434->439['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -275.890 , -14696.800 
+405->440['48 in Molecule A: TRP']: 152.140 , -13954.700 
+434->441['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -165.140 , -14329.400 
+434->442['129 in Molecule A: GLY', '130 in Molecule A: MET']: -230.650 , -14656.000 
+434->443['80 in Molecule A: GLY']: 303.610 , -13808.200 
+434->444['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -265.950 , -14796.100 
+434->445['81 in Molecule A: GLY']: -233.460 , -14829.400 
+434->446['26 in Molecule A: GLY']: -59.980 , -14347.900 
+434->447['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -149.070 , -14628.300 
+434->448['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -257.240 , -14787.800 
+434->449['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -64.050 , -14295.400 
+434->450['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -234.850 , -14689.600 
+434->451['48 in Molecule A: TRP']: -247.970 , -14439.600 
+434->452['100 in Molecule A: GLY']: 107.370 , -13993.000 
+434->453['112 in Molecule A: GLY']: -241.210 , -14843.800 
+434->454['48 in Molecule A: TRP']: -225.150 , -14590.300 
+434->455['112 in Molecule A: GLY']: -249.570 , -14856.500 
+434->456['48 in Molecule A: TRP']: 33.590 , -14468.200 
+434->457['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -285.860 , -14532.700 
+434->458['26 in Molecule A: GLY']: 93.120 , -14111.400 
+434->459['48 in Molecule A: TRP']: -217.830 , -14395.500 
+434->460['199 in Molecule A: LYS']: -113.010 , -14501.700 
+434->461['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 171.060 , -14086.400 
+434->462['130 in Molecule A: MET']: -62.120 , -14148.700 
+434->463['129 in Molecule A: GLY', '130 in Molecule A: MET']: -88.650 , -14283.400 
+434->464['130 in Molecule A: MET']: -6.580 , -14219.600 
+434->465['81 in Molecule A: GLY']: -205.820 , -14862.200 
+434->466['112 in Molecule A: GLY']: -286.340 , -14577.900 
+434->467['129 in Molecule A: GLY', '130 in Molecule A: MET']: -178.360 , -14493.500 
+434->468['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -131.130 , -14087.000 
+434->469['129 in Molecule A: GLY']: -187.630 , -14620.400 
+434->470['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 325.080 , -13823.900 
+434->471['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -246.420 , -14685.800 
+434->472['26 in Molecule A: GLY']: -285.340 , -14709.500 
+434->473['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -120.360 , -14072.400 
+434->474['108 in Molecule A: GLY']: -293.180 , -14506.300 
+434->475['110 in Molecule A: GLY']: -332.660 , -14724.000 
+434->476['26 in Molecule A: GLY']: 268.230 , -13890.400 
+434->477['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -190.790 , -14371.100 
+434->478['48 in Molecule A: TRP']: -259.560 , -14491.500 
+434->479['199 in Molecule A: LYS']: -82.130 , -14271.200 
+475->480['48 in Molecule A: TRP']: -231.310 , -14455.300 
+475->481['26 in Molecule A: GLY']: -300.390 , -14302.400 
+475->482['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: 132.140 , -13751.700 
+475->483['130 in Molecule A: MET']: -157.550 , -14770.300 
+475->484['100 in Molecule A: GLY']: -328.790 , -14333.100 
+475->485['110 in Molecule A: GLY']: -63.290 , -14351.300 
+475->486['81 in Molecule A: GLY']: -221.360 , -14906.300 
+475->487['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -249.580 , -14525.500 
+475->488['74 in Molecule A: LYS']: -137.790 , -14715.200 
+475->489['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 192.260 , -14335.000 
+475->490['110 in Molecule A: GLY']: -256.560 , -14596.400 
+475->491['112 in Molecule A: GLY']: 189.330 , -14274.300 
+475->492['129 in Molecule A: GLY']: -140.590 , -14589.200 
+475->493['100 in Molecule A: GLY']: -250.040 , -14776.200 
+475->494['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: 59.910 , -14355.200 
+475->495['79 in Molecule A: GLY']: -161.500 , -14548.400 
+475->496['26 in Molecule A: GLY']: -283.890 , -14508.200 
+475->497['129 in Molecule A: GLY', '130 in Molecule A: MET']: 244.720 , -14085.800 
+475->498['26 in Molecule A: GLY']: -284.260 , -14629.100 
+475->499['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -190.420 , -14880.500 
+475->500['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -302.890 , -14384.400 
+475->501['100 in Molecule A: GLY']: 249.000 , -13808.000 
+475->502['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -292.110 , -14658.100 
+475->503['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -243.390 , -14642.300 
+475->504['48 in Molecule A: TRP']: 41.980 , -14039.900 
+475->505['80 in Molecule A: GLY']: -158.260 , -14602.100 
+475->506['26 in Molecule A: GLY']: 143.900 , -14057.000 
+475->507['81 in Molecule A: GLY']: -240.630 , -14800.400 
+475->508['81 in Molecule A: GLY']: -231.070 , -14818.300 
+475->509['108 in Molecule A: GLY']: 141.130 , -13918.200 
+475->510['112 in Molecule A: GLY']: -261.940 , -14567.100 
+475->511['74 in Molecule A: LYS']: -151.610 , -14322.600 
+475->512['26 in Molecule A: GLY']: 81.470 , -13873.800 
+475->513['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -302.090 , -14715.800 
+475->514['26 in Molecule A: GLY']: -311.110 , -14516.000 
+475->515['78 in Molecule A: ARG']: -85.090 , -14259.400 
+475->516['100 in Molecule A: GLY']: -261.230 , -14335.800 
+475->517['112 in Molecule A: GLY']: -290.120 , -14552.000 
+475->518['81 in Molecule A: GLY']: 111.230 , -14090.700 
+475->519['129 in Molecule A: GLY', '130 in Molecule A: MET']: -204.040 , -14747.900 
+475->520['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -236.190 , -14624.000 
+475->521['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 232.970 , -13746.700 
+475->522['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -92.640 , -14740.600 
+475->523['199 in Molecule A: LYS']: -122.570 , -14442.900 
+475->524['48 in Molecule A: TRP']: -179.310 , -14709.400 
+475->525['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -212.540 , -14575.000 
+475->526['108 in Molecule A: GLY']: 84.260 , -14145.000 
+475->527['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -188.550 , -14293.700 
+475->528['129 in Molecule A: GLY', '130 in Molecule A: MET']: -109.270 , -14473.200 
+475->529['129 in Molecule A: GLY', '130 in Molecule A: MET']: -135.120 , -14541.100 
+475->530['129 in Molecule A: GLY', '130 in Molecule A: MET']: -98.740 , -14531.900 
+475->531['112 in Molecule A: GLY']: -328.260 , -14466.800 
+475->532['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 56.080 , -14128.200 
+475->533['199 in Molecule A: LYS']: 193.720 , -14000.600 
+475->534['74 in Molecule A: LYS']: -14.960 , -14623.800 
+475->535['129 in Molecule A: GLY', '130 in Molecule A: MET']: -158.750 , -14506.400 
+475->536['129 in Molecule A: GLY', '130 in Molecule A: MET']: 4.960 , -14480.100 
+475->537['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -197.700 , -14524.300 
+475->538['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -227.540 , -14872.900 
+475->539['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -136.100 , -14929.700 
+475->540['108 in Molecule A: GLY']: -250.670 , -14833.700 
+475->541['74 in Molecule A: LYS']: -168.000 , -14657.400 
+475->542['26 in Molecule A: GLY']: 44.920 , -13956.400 
+475->543['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -291.910 , -14661.700 
+475->544['48 in Molecule A: TRP']: -143.500 , -14616.700 
+475->545['199 in Molecule A: LYS']: 222.220 , -13977.700 
+475->546['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -226.460 , -14840.000 
+475->547['110 in Molecule A: GLY']: -242.640 , -14696.000 
+475->548['110 in Molecule A: GLY']: 78.610 , -14157.800 
+475->549['78 in Molecule A: ARG']: -214.510 , -14360.000 
+475->550['74 in Molecule A: LYS']: -129.910 , -14510.600 
+475->551['129 in Molecule A: GLY', '130 in Molecule A: MET']: -192.020 , -14672.000 
+475->552['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -226.040 , -14106.300 
+475->553['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 155.610 , -14131.000 
+475->554['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 10.640 , -14045.300 
+475->555['74 in Molecule A: LYS']: -105.490 , -14673.600 
+475->556['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -133.190 , -14164.900 
+475->557['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -69.150 , -14440.400 
+475->558['100 in Molecule A: GLY']: 433.910 , -13427.200 
+475->559['112 in Molecule A: GLY']: -328.220 , -14347.600 
+475->560['112 in Molecule A: GLY']: 95.510 , -14175.100 
+475->561['81 in Molecule A: GLY']: -242.750 , -14710.500 
+475->562['129 in Molecule A: GLY', '130 in Molecule A: MET']: -168.460 , -14655.900 
+475->563['74 in Molecule A: LYS']: -134.220 , -14848.600 
+475->564['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -187.520 , -14671.700 
+475->565['48 in Molecule A: TRP']: -93.230 , -14269.800 
+475->566['78 in Molecule A: LYS']: -123.250 , -14340.000 
+475->567['48 in Molecule A: TRP']: 320.620 , -13664.000 
+475->568['199 in Molecule A: LYS']: -158.790 , -14600.400 
+475->569['110 in Molecule A: GLY']: 88.710 , -13833.200 
+475->570['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -131.880 , -14434.400 
+475->571['112 in Molecule A: GLY']: -298.830 , -14814.600 
+475->572['48 in Molecule A: TRP']: -201.710 , -11958.500 
+475->573['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 358.590 , -14146.500 
+475->574['112 in Molecule A: GLY']: -322.510 , -14597.200 
+475->575['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -63.330 , -14349.800 
+475->576['129 in Molecule A: GLY', '130 in Molecule A: MET']: -94.400 , -14459.800 
+475->577['110 in Molecule A: GLY']: -322.530 , -14548.400 
+475->578['74 in Molecule A: LYS']: -166.320 , -14357.200 
+475->579['130 in Molecule A: MET']: -184.350 , -14685.000 
+475->580['26 in Molecule A: GLY']: 225.870 , -14291.500 
+475->581['81 in Molecule A: GLY']: 224.580 , -14324.800 
+475->582['78 in Molecule A: ARG']: -165.340 , -14368.200 
+475->583['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -245.470 , -14404.900 
+475->584['129 in Molecule A: GLY', '130 in Molecule A: MET']: -138.660 , -14741.000 
+475->585['112 in Molecule A: GLY']: -270.680 , -14830.700 
+475->586['112 in Molecule A: GLY']: -327.490 , -14401.200 
+475->587['78 in Molecule A: ARG']: -23.460 , -14233.100 
+475->588['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -145.920 , -14480.400 
+475->589['100 in Molecule A: GLY']: -252.690 , -14807.400 
+475->590['100 in Molecule A: GLY']: -126.610 , -14652.600 
+475->591['100 in Molecule A: GLY']: -285.340 , -14871.000 
+475->592['74 in Molecule A: LYS']: -177.830 , -14458.800 
+475->593['100 in Molecule A: GLY']: 52.140 , -14400.100 
+475->594['81 in Molecule A: GLY']: -242.080 , -14716.500 
+475->595['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -156.050 , -14308.700 
+475->596['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 41.620 , -14067.400 
+475->597['100 in Molecule A: GLY']: -298.430 , -14396.200 
+475->598['26 in Molecule A: GLY']: -231.240 , -14808.600 
+475->599['74 in Molecule A: LYS', '78 in Molecule A: ARG']: 34.900 , -14482.800 
+475->600['130 in Molecule A: MET']: -161.040 , -14715.100 
+475->601['199 in Molecule A: LYS']: -79.870 , -14499.100 
+475->602['78 in Molecule A: ARG']: -115.960 , -14465.700 
+475->603['100 in Molecule A: GLY']: -328.810 , -14357.700 
+475->604['48 in Molecule A: TRP']: -223.650 , -14466.300 
+475->605['26 in Molecule A: GLY']: 149.750 , -13874.700 
+475->606['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -235.920 , -14790.400 
+475->607['26 in Molecule A: GLY']: -233.650 , -14882.500 
+475->608['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 243.270 , -13707.900 
+475->609['79 in Molecule A: GLY']: -214.350 , -14715.700 
+475->610['100 in Molecule A: GLY']: -271.600 , -14825.700 
+475->611['108 in Molecule A: GLY']: 91.810 , -14056.800 
+475->612['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -233.980 , -14727.900 
+475->613['199 in Molecule A: LYS']: -229.810 , -14624.700 
+475->614['129 in Molecule A: GLY']: 234.110 , -14074.500 
+475->615['129 in Molecule A: GLY', '130 in Molecule A: MET']: -121.990 , -14603.900 
+475->616['108 in Molecule A: GLY']: -251.310 , -14435.200 
+475->617['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -209.030 , -14670.100 
+475->618['81 in Molecule A: GLY']: -194.900 , -14947.200 
+475->619['26 in Molecule A: GLY']: 117.340 , -14163.000 
+475->620['108 in Molecule A: GLY']: -320.930 , -14485.700 
+475->621['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -264.040 , -14824.000 
+475->622['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -149.730 , -14610.900 
+475->623['199 in Molecule A: LYS']: -92.960 , -14179.300 
+475->624['74 in Molecule A: LYS']: -156.610 , -14611.500 
+475->625['48 in Molecule A: TRP']: -241.040 , -11878.600 
+475->626['130 in Molecule A: TRP']: -78.400 , -14408.900 
+475->627['74 in Molecule A: LYS']: -125.990 , -14634.100 
+475->628['130 in Molecule A: MET']: 365.520 , -13916.900 
+475->629['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -229.560 , -14713.600 
+475->630['74 in Molecule A: LYS']: -65.840 , -14681.400 
+475->631['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -202.330 , -14618.300 
+475->632['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -117.350 , -14337.500 
+475->633['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -237.240 , -14856.600 
+475->634['26 in Molecule A: GLY']: -239.320 , -14965.300 
+475->635['74 in Molecule A: LYS']: 19.520 , -14261.700 
+475->636['112 in Molecule A: GLY']: -328.240 , -14527.100 
+475->637['81 in Molecule A: GLY']: -234.990 , -14827.500 
+475->638['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 89.290 , -14085.300 
+475->639['78 in Molecule A: LYS']: -88.110 , -13951.800 
+475->640['78 in Molecule A: ARG']: -185.360 , -14415.300 
+475->641['130 in Molecule A: MET']: 245.320 , -14022.200 
+475->642['130 in Molecule A: MET']: -204.140 , -14605.600 
+475->643['129 in Molecule A: GLY', '130 in Molecule A: MET']: -196.650 , -14735.900 
+475->644['79 in Molecule A: GLY']: -172.280 , -14726.300 
+475->645['100 in Molecule A: GLY']: -322.280 , -14427.500 
+475->646['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 121.200 , -13916.100 
+475->647['129 in Molecule A: GLY', '130 in Molecule A: MET']: 9.460 , -14542.100 
+475->648['129 in Molecule A: GLY', '130 in Molecule A: MET']: -186.180 , -14509.800 
+475->649['26 in Molecule A: GLY']: -288.910 , -14745.500 
+475->650['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 378.810 , -14049.600 
+475->651['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -127.050 , -14476.700 
+475->652['100 in Molecule A: GLY']: 110.460 , -14112.300 
+475->653['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -212.270 , -14428.500 
+475->654['26 in Molecule A: GLY']: -264.940 , -14807.000 
+475->655['199 in Molecule A: LYS']: -148.580 , -14507.700 
+475->656['112 in Molecule A: GLY']: 110.420 , -14005.800 
+475->657['100 in Molecule A: GLY']: -280.970 , -14547.500 
+475->658['100 in Molecule A: GLY']: -262.960 , -14720.300 
+475->659['100 in Molecule A: GLY']: -302.980 , -14799.300 
+475->660['100 in Molecule A: GLY']: 106.910 , -14013.500 
+475->661['26 in Molecule A: GLY']: -301.820 , -14878.500 
+475->662['81 in Molecule A: GLY']: 234.840 , -14133.700 
+475->663['129 in Molecule A: GLY', '130 in Molecule A: MET']: -155.030 , -14585.800 
+475->664['26 in Molecule A: GLY']: -37.140 , -14306.200 
+475->665['199 in Molecule A: LYS']: -310.130 , -14662.200 
+475->666['81 in Molecule A: GLY']: -230.800 , -14807.800 
+475->667['100 in Molecule A: GLY']: -296.120 , -14375.500 
+475->668['112 in Molecule A: GLY']: 178.700 , -14090.600 
+475->669['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -207.260 , -14875.600 
+475->670['48 in Molecule A: TRP']: -247.240 , -14630.800 
+475->671['100 in Molecule A: GLY']: 175.550 , -14142.100 
+475->672['74 in Molecule A: LYS']: -108.860 , -14748.900 
+475->673['100 in Molecule A: GLY']: -252.580 , -15037.900 
+475->674['100 in Molecule A: GLY']: -238.810 , -14555.200 
+475->675['48 in Molecule A: TRP']: -82.250 , -14386.200 
+475->676['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -181.940 , -14381.200 
+475->677['108 in Molecule A: GLY']: 214.790 , -13661.800 
+475->678['112 in Molecule A: GLY']: -322.510 , -14528.300 
+475->679['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -321.510 , -14555.300 
+475->680['26 in Molecule A: GLY']: -232.450 , -14667.300 
+475->681['129 in Molecule A: GLY', '130 in Molecule A: MET']: -52.840 , -14308.400 
+475->682['26 in Molecule A: GLY']: -322.450 , -14459.500 
+475->683['199 in Molecule A: LYS']: -26.850 , -14371.700 
+475->684['48 in Molecule A: TRP']: 193.180 , -13532.200 
+475->685['26 in Molecule A: GLY']: -324.780 , -14433.000 
+475->686['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -82.910 , -14432.100 
+475->687['110 in Molecule A: GLY']: -294.840 , -14529.400 
+475->688['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -3.910 , -13922.900 
+475->689['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -249.760 , -14674.800 
+475->690['129 in Molecule A: GLY', '130 in Molecule A: MET']: -100.810 , -14489.300 
+475->691['48 in Molecule A: TRP']: -248.890 , -14543.700 
+475->692['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -219.470 , -14752.400 
+475->693['130 in Molecule A: MET']: -188.840 , -14671.500 
+475->694['26 in Molecule A: GLY']: 219.390 , -13792.800 
+475->695['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -24.520 , -14064.100 
+475->696['80 in Molecule A: GLY']: -248.270 , -14569.700 
+475->697['48 in Molecule A: TRP']: -226.080 , -14503.300 
+475->698['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 391.090 , -13534.100 
+475->699['80 in Molecule A: GLY']: -169.240 , -14380.700 
+475->700['100 in Molecule A: GLY']: -329.280 , -14333.600 
+475->701['80 in Molecule A: GLY']: 55.340 , -13810.200 
+475->702['199 in Molecule A: LYS']: -180.490 , -14722.800 
+475->703['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -285.840 , -14610.600 
+475->704['48 in Molecule A: TRP']: 68.520 , -14069.900 
+475->705['100 in Molecule A: GLY']: -220.080 , -14775.900 
+475->706['130 in Molecule A: MET']: -5.500 , -13951.900 
+475->707['108 in Molecule A: GLY']: 366.460 , -14091.500 
+475->708['199 in Molecule A: LYS']: -253.320 , -14506.800 
+475->709['74 in Molecule A: LYS']: -228.680 , -14173.800 
+475->710['110 in Molecule A: GLY']: -213.960 , -14517.200 
+475->711['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 138.610 , -13662.500 
+475->712['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -175.850 , -14501.600 
+475->713['130 in Molecule A: MET']: -146.090 , -14376.900 
+475->714['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -290.150 , -14626.800 
+475->715['81 in Molecule A: GLY']: -247.920 , -14959.300 
+475->716['100 in Molecule A: GLY']: -267.360 , -14885.500 
+475->717['199 in Molecule A: LYS']: -181.790 , -14735.200 
+475->718['80 in Molecule A: GLY']: -230.550 , -14609.200 
+475->719['110 in Molecule A: GLY']: 39.790 , -14096.700 
+475->720['79 in Molecule A: GLY']: 82.440 , -14412.400 
+475->721['108 in Molecule A: GLY']: -185.300 , -14575.100 
+475->722['48 in Molecule A: TRP']: -234.230 , -14650.000 
+475->723['108 in Molecule A: GLY']: -236.740 , -14772.600 
+475->724['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -290.840 , -14411.000 
+475->725['26 in Molecule A: GLY']: -278.390 , -14901.700 
+475->726['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -158.100 , -14833.000 
+475->727['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -73.830 , -14239.200 
+475->728['112 in Molecule A: GLY']: 159.310 , -13791.900 
+475->729['129 in Molecule A: GLY']: -45.960 , -14528.900 
+475->730['81 in Molecule A: GLY']: -238.730 , -14918.500 
+475->731['108 in Molecule A: GLY']: 59.750 , -14324.400 
+475->732['100 in Molecule A: GLY']: -234.040 , -14894.600 
+475->733['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -108.160 , -14582.500 
+475->734['108 in Molecule A: GLY']: -320.920 , -14534.000 
+475->735['48 in Molecule A: TRP']: 26.540 , -14214.200 
+475->736['112 in Molecule A: GLY']: 239.660 , -13957.900 
+475->737['130 in Molecule A: MET']: -154.540 , -14614.400 
+475->738['129 in Molecule A: GLY']: -119.930 , -14512.500 
+475->739['199 in Molecule A: LYS']: -317.500 , -14720.300 
+475->740['129 in Molecule A: GLY', '130 in Molecule A: MET']: -68.200 , -14344.000 
+475->741['26 in Molecule A: GLY']: 175.600 , -13907.900 
+475->742['129 in Molecule A: GLY']: 291.770 , -14177.800 
+475->743['26 in Molecule A: GLY']: -287.500 , -14810.800 
+475->744['74 in Molecule A: LYS']: -198.670 , -14459.600 
+475->745['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -206.850 , -14458.300 
+475->746['74 in Molecule A: LYS']: -77.370 , -14577.900 
+475->747['81 in Molecule A: GLY']: 309.710 , -14055.400 
+475->748['74 in Molecule A: LYS']: -142.510 , -14718.000 
+475->749['80 in Molecule A: GLY']: 235.150 , -14284.400 
+475->750['112 in Molecule A: GLY']: -322.610 , -14660.000 
+475->751['129 in Molecule A: GLY', '130 in Molecule A: MET']: -120.130 , -14557.800 
+475->752['48 in Molecule A: TRP']: 63.690 , -13813.600 
+475->753['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -190.050 , -14626.000 
+475->754['130 in Molecule A: MET']: -128.110 , -14391.500 
+475->755['26 in Molecule A: GLY']: 178.250 , -13783.300 
+475->756['129 in Molecule A: GLY', '130 in Molecule A: MET']: -179.540 , -14730.000 
+475->757['108 in Molecule A: GLY']: 164.160 , -13577.200 
+475->758['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -99.360 , -14346.400 
+475->759['78 in Molecule A: ARG']: -204.230 , -14473.800 
+475->760['48 in Molecule A: TRP']: -212.820 , -14749.200 
+475->761['112 in Molecule A: GLY']: 25.150 , -14184.800 
+475->762['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -229.910 , -14498.700 
+475->763['74 in Molecule A: LYS']: -78.390 , -14528.500 
+475->764['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 209.270 , -14081.600 
+475->765['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -119.880 , -14622.000 
+475->766['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -239.920 , -14733.000 
+475->767['129 in Molecule A: GLY']: 260.210 , -14167.700 
+475->768['199 in Molecule A: LYS']: -25.780 , -14530.500 
+475->769['108 in Molecule A: GLY']: 291.370 , -13473.700 
+475->770['129 in Molecule A: GLY', '130 in Molecule A: MET']: -198.140 , -14139.400 
+475->771['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -144.140 , -14889.300 
+475->772['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -187.400 , -14621.600 
+475->773['81 in Molecule A: GLY']: -189.390 , -15012.900 
+475->774['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -265.850 , -14560.600 
+475->775['129 in Molecule A: GLY', '130 in Molecule A: MET']: -102.210 , -14508.700 
+475->776['74 in Molecule A: LYS']: -69.760 , -14476.600 
+475->777['26 in Molecule A: GLY']: 74.210 , -14261.300 
+475->778['112 in Molecule A: GLY']: -267.320 , -14590.400 
+475->779['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 113.940 , -13710.600 
+475->780['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -248.460 , -14470.000 
+475->781['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -187.820 , -14515.100 
+475->782['199 in Molecule A: LYS']: 20.820 , -14245.300 
+475->783['26 in Molecule A: GLY']: -269.790 , -14732.100 
+475->784['74 in Molecule A: LYS']: -151.980 , -14642.900 
+475->785['78 in Molecule A: ARG']: -231.140 , -14349.600 
+475->786['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -183.920 , -14761.400 
+475->787['74 in Molecule A: LYS']: -73.470 , -14701.800 
+475->788['112 in Molecule A: GLY']: -322.510 , -14565.300 
+475->789['108 in Molecule A: GLY']: 115.620 , -14125.600 
+475->790['108 in Molecule A: GLY']: -285.100 , -14463.500 
+475->791['112 in Molecule A: GLY']: -328.230 , -14499.000 
+475->792['112 in Molecule A: GLY']: -280.350 , -14644.200 
+475->793['78 in Molecule A: LYS']: 29.100 , -14245.500 
+475->794['100 in Molecule A: GLY']: -2.330 , -14543.600 
+475->795['199 in Molecule A: LYS']: -16.100 , -14424.200 
+475->796['199 in Molecule A: LYS']: -113.900 , -14610.600 
+475->797['110 in Molecule A: GLY']: 92.470 , -13600.200 
+475->798['129 in Molecule A: GLY']: -208.340 , -14490.300 
+475->799['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -269.430 , -14636.100 
+475->800['112 in Molecule A: GLY']: 194.600 , -13969.800 
+475->801['26 in Molecule A: GLY']: -269.970 , -14994.800 
+475->802['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -176.030 , -14868.800 
+475->803['108 in Molecule A: GLY']: 196.440 , -14046.200 
+475->804['48 in Molecule A: TRP']: -213.840 , -14480.000 
+475->805['112 in Molecule A: GLY']: -299.910 , -14693.300 
+475->806['112 in Molecule A: GLY']: -322.510 , -14592.600 
+475->807['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -252.650 , -14575.300 
+475->808['199 in Molecule A: LYS']: 60.890 , -14201.600 
+475->809['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -264.480 , -14833.900 
+475->810['74 in Molecule A: LYS']: -234.610 , -14754.900 
+475->811['48 in Molecule A: TRP']: -208.110 , -14675.300 
+475->812['81 in Molecule A: GLY']: 334.870 , -13956.300 
+475->813['199 in Molecule A: LYS']: -53.210 , -14565.300 
+475->814['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -151.360 , -14809.200 
+475->815['199 in Molecule A: LYS']: -209.810 , -14489.200 
+475->816['48 in Molecule A: TRP']: -18.900 , -13817.100 
+475->817['26 in Molecule A: GLY']: -257.770 , -14719.800 
+475->818['80 in Molecule A: GLY']: -148.150 , -14811.300 
+475->819['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 260.040 , -13896.900 
+475->820['74 in Molecule A: LYS']: -186.720 , -14491.200 
+475->821['108 in Molecule A: GLY']: -328.440 , -14456.300 
+475->822['48 in Molecule A: TRP']: 174.400 , -13639.000 
+475->823['78 in Molecule A: ARG']: -154.120 , -14264.600 
+475->824['100 in Molecule A: GLY']: 291.750 , -13796.000 
+475->825['130 in Molecule A: MET']: -116.410 , -14426.500 
+475->826['80 in Molecule A: GLY']: -159.910 , -14378.500 
+475->827['48 in Molecule A: TRP']: -120.900 , -14352.600 
+475->828['74 in Molecule A: LYS']: -122.740 , -14365.200 
+475->829['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -66.690 , -14687.900 
+475->830['74 in Molecule A: LYS']: 55.030 , -14727.500 
+475->831['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -174.490 , -14581.800 
+475->832['80 in Molecule A: GLY']: -182.850 , -14890.800 
+475->833['110 in Molecule A: GLY']: -303.140 , -14700.700 
+475->834['74 in Molecule A: LYS', '78 in Molecule A: ARG']: 27.660 , -14251.400 
+475->835['79 in Molecule A: GLY']: -208.160 , -14909.800 
+475->836['112 in Molecule A: GLY']: 229.190 , -14008.600 
+475->837['130 in Molecule A: MET']: -228.000 , -14536.700 
+475->838['48 in Molecule A: TRP']: -202.520 , -14447.300 
+475->839['112 in Molecule A: GLY']: -272.390 , -14724.200 
+475->840['129 in Molecule A: GLY', '130 in Molecule A: MET']: -122.220 , -14448.900 
+475->841['26 in Molecule A: GLY']: 108.210 , -14047.100 
+475->842['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -97.640 , -14626.300 
+475->843['100 in Molecule A: GLY']: -322.200 , -14400.300 
+475->844['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -227.400 , -14972.600 
+475->845['81 in Molecule A: GLY']: 303.680 , -13947.800 
+475->846['81 in Molecule A: GLY']: -237.100 , -14565.900 
+475->847['74 in Molecule A: LYS']: -81.990 , -14524.200 
+475->848['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 67.830 , -14130.800 
+475->849['81 in Molecule A: GLY']: -242.650 , -14716.100 
+475->850['74 in Molecule A: LYS']: -311.260 , -14842.000 
+475->851['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -187.650 , -14777.500 
+475->852['26 in Molecule A: GLY']: -266.560 , -14670.400 
+475->853['199 in Molecule A: LYS']: -357.650 , -14637.100 
+475->854['129 in Molecule A: GLY']: 146.030 , -14034.100 
+475->855['129 in Molecule A: GLY']: -97.190 , -14710.300 
+475->856['26 in Molecule A: GLY']: -324.560 , -14420.100 
+475->857['199 in Molecule A: LYS']: -168.170 , -14615.700 
+475->858['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -157.860 , -14481.500 
+475->859['108 in Molecule A: GLY']: 240.220 , -13586.600 
+475->860['74 in Molecule A: LYS']: -182.150 , -14640.000 
+475->861['74 in Molecule A: LYS']: 105.680 , -14400.800 
+475->862['48 in Molecule A: TRP']: -238.810 , -14465.400 
+475->863['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 221.840 , -13914.400 
+475->864['78 in Molecule A: ARG']: -221.510 , -14368.200 
+475->865['129 in Molecule A: GLY', '130 in Molecule A: MET']: -147.210 , -14692.000 
+475->866['100 in Molecule A: GLY']: 143.230 , -14195.000 
+475->867['26 in Molecule A: GLY']: -292.830 , -14869.000 
+475->868['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -171.760 , -14788.800 
+475->869['130 in Molecule A: MET']: -215.100 , -14283.600 
+475->870['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 38.300 , -14569.600 
+475->871['74 in Molecule A: LYS']: -103.700 , -14447.000 
+475->872['129 in Molecule A: GLY', '130 in Molecule A: MET']: -150.710 , -14681.100 
+475->873['78 in Molecule A: LYS']: -152.000 , -14437.500 
+475->874['26 in Molecule A: GLY']: -277.340 , -14890.300 
+475->875['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 238.800 , -14292.300 
+475->876['110 in Molecule A: GLY']: -322.510 , -14466.600 
+475->877['129 in Molecule A: GLY', '130 in Molecule A: MET']: -163.770 , -14633.000 
+475->878['74 in Molecule A: LYS']: -272.900 , -15322.700 
+475->879['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -265.440 , -14531.400 
+475->880['26 in Molecule A: GLY']: -326.330 , -14584.400 
+475->881['112 in Molecule A: GLY']: -298.290 , -14533.600 
+475->882['48 in Molecule A: TRP']: -257.780 , -14749.800 
+475->883['100 in Molecule A: GLY']: -244.920 , -14926.000 
+475->884['80 in Molecule A: GLY']: -22.240 , -14214.500 
+475->885['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -105.200 , -13942.900 
+475->886['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -269.310 , -14486.000 
+475->887['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -136.190 , -14277.000 
+475->888['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 368.420 , -13732.600 
+475->889['129 in Molecule A: GLY']: -63.100 , -14577.000 
+475->890['129 in Molecule A: GLY', '130 in Molecule A: MET']: 122.240 , -13862.300 
+475->891['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -191.850 , -14803.800 
+475->892['199 in Molecule A: LYS']: -98.530 , -14536.900 
+475->893['129 in Molecule A: GLY', '130 in Molecule A: MET']: 75.650 , -14256.200 
+475->894['108 in Molecule A: GLY']: -329.540 , -14511.000 
+475->895['129 in Molecule A: GLY', '130 in Molecule A: MET']: -213.510 , -14544.700 
+475->896['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -246.920 , -14464.800 
+475->897['48 in Molecule A: TRP']: 328.410 , -14043.700 
+475->898['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -228.510 , -14663.400 
+475->899['108 in Molecule A: GLY']: 259.190 , -13832.800 
+475->900['129 in Molecule A: GLY', '130 in Molecule A: MET']: -197.790 , -14581.200 
+475->901['110 in Molecule A: GLY']: -291.270 , -14707.800 
+475->902['129 in Molecule A: GLY']: -65.380 , -14683.300 
+475->903['80 in Molecule A: GLY']: 205.000 , -14108.000 
+475->904['78 in Molecule A: ARG']: -181.590 , -14408.000 
+475->905['129 in Molecule A: GLY']: 315.160 , -14021.400 
+475->906['129 in Molecule A: GLY', '130 in Molecule A: MET']: -112.320 , -14416.800 
+475->907['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -117.440 , -14208.400 
+475->908['80 in Molecule A: GLY']: -197.550 , -14829.700 
+475->909['199 in Molecule A: LYS']: 142.520 , -13995.700 
+475->910['48 in Molecule A: TRP']: -225.450 , -14348.800 
+475->911['199 in Molecule A: LYS']: 15.420 , -14060.200 
+475->912['130 in Molecule A: MET']: -160.780 , -14289.300 
+475->913['199 in Molecule A: LYS']: -100.260 , -14292.800 
+475->914['74 in Molecule A: LYS']: -234.110 , -14965.000 
+475->915['26 in Molecule A: GLY']: -296.050 , -14379.000 
+475->916['199 in Molecule A: LYS']: -119.510 , -14631.400 
+475->917['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -213.780 , -14646.100 
+475->918['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -5.260 , -14588.900 
+475->919['100 in Molecule A: GLY']: -239.260 , -14904.900 
+475->920['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -246.820 , -14586.800 
+475->921['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -204.060 , -14757.600 
+475->922['48 in Molecule A: TRP']: 352.180 , -13341.000 
+475->923['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 244.380 , -13948.800 
+475->924['112 in Molecule A: GLY']: -324.140 , -14539.300 
+475->925['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -138.610 , -14469.500 
+475->926['48 in Molecule A: TRP']: -62.990 , -14404.200 
+475->927['80 in Molecule A: GLY']: -171.190 , -14443.200 
+475->928['48 in Molecule A: TRP']: -230.260 , -14457.100 
+475->929['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -256.070 , -15462.400 
+475->930['199 in Molecule A: LYS']: -242.530 , -14887.200 
+475->931['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -114.270 , -14502.500 
+475->932['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -46.820 , -14545.400 
+475->933['129 in Molecule A: GLY', '130 in Molecule A: MET']: -165.380 , -14600.400 
+475->934['112 in Molecule A: GLY']: -305.240 , -14774.100 
+475->935['26 in Molecule A: GLY']: 197.830 , -13861.700 
+475->936['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -191.540 , -14843.900 
+475->937['129 in Molecule A: GLY', '130 in Molecule A: MET']: -158.790 , -14507.700 
+475->938['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -179.680 , -14182.500 
+475->939['129 in Molecule A: GLY']: -77.390 , -14742.400 
+475->940['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -223.960 , -14747.500 
+475->941['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -198.720 , -15159.500 
+475->942['129 in Molecule A: GLY']: 338.560 , -13951.100 
+475->943['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -152.460 , -14404.600 
+475->944['108 in Molecule A: GLY']: -273.500 , -14529.400 
+475->945['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -158.680 , -14259.500 
+475->946['108 in Molecule A: GLY']: -91.010 , -14182.200 
+475->947['108 in Molecule A: GLY']: 73.440 , -14147.300 
+475->948['100 in Molecule A: GLY']: -264.690 , -14769.000 
+475->949['100 in Molecule A: GLY']: -241.720 , -14672.500 
+475->950['26 in Molecule A: GLY']: -93.320 , -14396.200 
+475->951['129 in Molecule A: GLY']: -132.420 , -14584.400 
+475->952['110 in Molecule A: GLY']: -278.900 , -14832.800 
+475->953['108 in Molecule A: GLY']: 239.700 , -13854.800 
+475->954['129 in Molecule A: GLY', '130 in Molecule A: MET']: -156.960 , -14561.900 
+475->955['112 in Molecule A: GLY']: -322.510 , -14607.400 
+475->956['108 in Molecule A: GLY']: -79.370 , -14709.100 
+475->957['100 in Molecule A: GLY']: -264.490 , -14769.600 
+475->958['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -231.870 , -14866.600 
+475->959['129 in Molecule A: GLY']: 376.020 , -14011.300 
+475->960['199 in Molecule A: LYS']: -170.760 , -14823.000 
+475->961['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -115.420 , -14413.900 
+475->962['108 in Molecule A: GLY']: 406.150 , -13772.100 
+475->963['110 in Molecule A: GLY']: -322.520 , -14500.900 
+475->964['74 in Molecule A: LYS']: -143.360 , -14297.400 
+475->965['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -9.660 , -14443.500 
+475->966['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -160.500 , -14356.100 
+475->967['199 in Molecule A: LYS']: -158.500 , -14259.600 
+475->968['108 in Molecule A: GLY']: 241.950 , -13738.500 
+475->969['108 in Molecule A: GLY']: -328.110 , -14531.800 
+475->970['74 in Molecule A: LYS']: -194.890 , -14645.800 
+475->971['74 in Molecule A: LYS']: -111.560 , -14595.600 
+475->972['48 in Molecule A: TRP']: -243.550 , -14583.600 
+475->973['48 in Molecule A: TRP']: 62.590 , -13812.200 
+475->974['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -107.130 , -14582.700 
+475->975['100 in Molecule A: GLY']: -335.360 , -14443.300 
+475->976['129 in Molecule A: GLY', '130 in Molecule A: MET']: 211.180 , -13865.300 
+475->977['130 in Molecule A: TRP']: -45.350 , -14176.800 
+475->978['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -252.700 , -14488.100 
+475->979['48 in Molecule A: TRP']: -183.200 , -14637.400 
+475->980['74 in Molecule A: LYS']: -30.920 , -14840.700 
+475->981['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 271.940 , -14192.200 
+475->982['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -295.650 , -14447.400 
+475->983['112 in Molecule A: GLY']: -324.160 , -14542.900 
+475->984['199 in Molecule A: LYS']: -65.300 , -14344.000 
+475->985['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -111.100 , -14351.100 
+475->986['129 in Molecule A: GLY', '130 in Molecule A: MET']: -150.990 , -14641.500 
+475->987['199 in Molecule A: LYS']: -136.360 , -14476.800 
+475->988['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -10.310 , -13925.200 
+475->989['100 in Molecule A: GLY']: -51.720 , -14430.800 
+475->990['80 in Molecule A: GLY']: -197.120 , -14905.400 
+475->991['112 in Molecule A: GLY']: -259.230 , -14772.600 
+475->992['100 in Molecule A: GLY']: -296.140 , -14403.400 
+475->993['48 in Molecule A: TRP']: 191.050 , -13772.700 
+475->994['129 in Molecule A: GLY']: -132.460 , -14580.600 
+475->995['100 in Molecule A: GLY']: 171.380 , -13858.600 
+475->996['129 in Molecule A: GLY']: -71.300 , -14475.900 
+475->997['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -157.740 , -14620.100 
+475->998['199 in Molecule A: LYS']: 300.590 , -13988.300 
+475->999['108 in Molecule A: GLY']: -249.310 , -14517.100 
+475->1000['112 in Molecule A: GLY']: -231.810 , -14705.300 
+475->1001['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 6.090 , -14219.400 
+475->1002['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -190.940 , -14979.700 
+475->1003['81 in Molecule A: GLY']: -233.660 , -14911.000 
+475->1004['199 in Molecule A: LYS']: 201.510 , -14392.800 
+475->1005['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -119.300 , -14616.300 
+475->1006['199 in Molecule A: LYS']: -245.930 , -14653.200 
+475->1007['48 in Molecule A: TRP']: 57.360 , -13998.300 
+475->1008['108 in Molecule A: GLY']: -263.300 , -14604.700 
+475->1009['199 in Molecule A: LYS']: -321.120 , -14671.300 
+475->1010['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 165.050 , -13810.900 
+475->1011['108 in Molecule A: GLY']: -179.570 , -14730.200 
+475->1012['199 in Molecule A: LYS']: -201.200 , -14613.500 
+475->1013['199 in Molecule A: LYS']: 58.350 , -14127.200 
+475->1014['112 in Molecule A: GLY']: -281.930 , -14542.900 
+475->1015['26 in Molecule A: GLY']: -147.820 , -14444.200 
+475->1016['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -225.060 , -14726.600 
+475->1017['78 in Molecule A: ARG']: -257.480 , -14464.300 
+475->1018['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -144.920 , -14268.600 
+475->1019['110 in Molecule A: GLY']: -290.610 , -14603.700 
+475->1020['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 211.410 , -13960.600 
+475->1021['110 in Molecule A: GLY']: -258.470 , -14889.800 
+475->1022['129 in Molecule A: GLY']: -136.220 , -14597.300 
+475->1023['74 in Molecule A: LYS']: -91.120 , -14369.700 
+475->1024['48 in Molecule A: TRP']: 67.400 , -14248.100 
+475->1025['81 in Molecule A: GLY']: 117.560 , -14422.200 
+475->1026['199 in Molecule A: LYS']: 9.390 , -14353.000 
+475->1027['26 in Molecule A: GLY']: -294.790 , -14818.900 
+475->1028['199 in Molecule A: LYS']: 13.540 , -14106.300 
+475->1029['112 in Molecule A: GLY']: -262.260 , -14849.800 
+475->1030['112 in Molecule A: GLY']: 301.710 , -13665.300 
+475->1031['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -77.980 , -14477.200 
+475->1032['48 in Molecule A: TRP']: -183.140 , -14633.000 
+475->1033['199 in Molecule A: LYS']: 203.200 , -13927.500 
+475->1034['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -224.150 , -14722.800 
+475->1035['48 in Molecule A: TRP']: -227.750 , -14602.200 
+475->1036['112 in Molecule A: GLY']: 337.200 , -13901.100 
+475->1037['81 in Molecule A: GLY']: -242.750 , -14701.900 
+475->1038['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -222.870 , -14700.400 
+475->1039['48 in Molecule A: TRP']: -201.630 , -14784.600 
+475->1040['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -39.280 , -14905.300 
+475->1041['48 in Molecule A: TRP']: -239.750 , -14546.700 
+475->1042['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -171.890 , -14832.600 
+475->1043['26 in Molecule A: GLY']: 63.420 , -14251.000 
+475->1044['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -139.480 , -14347.900 
+475->1045['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -163.270 , -14889.100 
+475->1046['108 in Molecule A: GLY']: 92.420 , -14183.500 
+475->1047['129 in Molecule A: GLY', '130 in Molecule A: MET']: -185.910 , -14683.300 
+475->1048['48 in Molecule A: TRP']: -211.830 , -14694.700 
+475->1049['199 in Molecule A: LYS']: -240.820 , -14638.400 
+475->1050['129 in Molecule A: GLY', '130 in Molecule A: MET']: -338.380 , -14547.900 
+475->1051['110 in Molecule A: GLY']: -326.430 , -14526.200 
+475->1052['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -210.990 , -14650.400 
+475->1053['78 in Molecule A: ARG']: 88.720 , -13952.100 
+475->1054['81 in Molecule A: GLY']: -214.620 , -14790.500 
+475->1055['81 in Molecule A: GLY']: -160.330 , -14526.500 
+475->1056['100 in Molecule A: GLY']: 121.420 , -14062.400 
+475->1057['74 in Molecule A: LYS']: -214.720 , -14476.000 
+475->1058['26 in Molecule A: GLY']: 182.120 , -14119.400 
+475->1059['78 in Molecule A: LYS']: -90.340 , -13994.600 
+475->1060['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 128.780 , -14092.500 
+475->1061['100 in Molecule A: GLY']: -260.090 , -14759.000 
+475->1062['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -196.430 , -14552.400 
+475->1063['78 in Molecule A: ARG']: -46.250 , -14304.500 
+475->1064['108 in Molecule A: GLY']: 41.050 , -13925.100 
+475->1065['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -238.240 , -14544.400 
+475->1066['26 in Molecule A: GLY']: -327.370 , -14401.200 
+475->1067['81 in Molecule A: GLY']: -245.040 , -14816.800 
+475->1068['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 125.680 , -14019.100 
+475->1069['112 in Molecule A: GLY']: -328.140 , -14646.700 
+475->1070['78 in Molecule A: ARG']: 21.120 , -14090.400 
+475->1071['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -209.370 , -15121.500 
+475->1072['74 in Molecule A: LYS']: -137.200 , -14279.500 
+475->1073['80 in Molecule A: GLY']: 92.810 , -14022.300 
+475->1074['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -242.880 , -14302.700 
+475->1075['199 in Molecule A: LYS']: 25.820 , -14353.400 
+475->1076['112 in Molecule A: GLY']: -11.600 , -14263.100 
+475->1077['110 in Molecule A: GLY']: -273.760 , -14812.900 
+475->1078['26 in Molecule A: GLY']: -290.280 , -14536.200 
+475->1079['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -246.170 , -14567.700 
+475->1080['100 in Molecule A: GLY']: -273.250 , -14591.100 
+475->1081['129 in Molecule A: GLY', '130 in Molecule A: MET']: -206.700 , -14394.300 
+475->1082['130 in Molecule A: MET']: 189.680 , -13881.400 
+475->1083['74 in Molecule A: LYS']: -60.610 , -14602.300 
+475->1084['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -194.370 , -14478.900 
+475->1085['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 124.150 , -14418.900 
+475->1086['26 in Molecule A: GLY']: -322.430 , -14581.800 
+475->1087['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -168.320 , -14856.100 
+475->1088['108 in Molecule A: GLY']: 79.020 , -13734.500 
+475->1089['110 in Molecule A: GLY']: -262.410 , -14742.400 
+475->1090['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -167.100 , -14428.700 
+475->1091['78 in Molecule A: ARG']: -69.990 , -14214.400 
+475->1092['48 in Molecule A: TRP']: 197.930 , -13712.100 
+475->1093['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -160.370 , -14893.100 
+475->1094['129 in Molecule A: GLY', '130 in Molecule A: MET']: 116.200 , -14107.700 
+475->1095['129 in Molecule A: GLY', '130 in Molecule A: MET']: -135.950 , -14423.800 
+475->1096['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -213.970 , -15013.200 
+475->1097['129 in Molecule A: GLY', '130 in Molecule A: MET']: -161.400 , -14615.000 
+475->1098['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -73.340 , -14171.700 
+475->1099['199 in Molecule A: LYS']: -112.220 , -14351.400 
+475->1100['48 in Molecule A: TRP']: 172.530 , -14161.900 
+475->1101['129 in Molecule A: GLY', '130 in Molecule A: MET']: -172.540 , -14652.700 
+475->1102['48 in Molecule A: TRP']: -259.500 , -14445.400 
+475->1103['78 in Molecule A: ARG']: 258.320 , -13817.600 
+475->1104['129 in Molecule A: GLY', '130 in Molecule A: MET']: -134.960 , -14468.100 
+475->1105['199 in Molecule A: LYS']: -154.460 , -14524.800 
+475->1106['112 in Molecule A: GLY']: -282.310 , -14645.100 
+475->1107['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -238.870 , -14717.800 
+475->1108['100 in Molecule A: GLY']: -52.030 , -14607.200 
+475->1109['199 in Molecule A: LYS']: 136.830 , -14003.600 
+475->1110['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -114.770 , -14356.500 
+475->1111['48 in Molecule A: TRP']: -227.860 , -14644.100 
+475->1112['48 in Molecule A: TRP']: -247.960 , -14859.600 
+475->1113['78 in Molecule A: ARG']: -147.800 , -14057.700 
+475->1114['129 in Molecule A: GLY', '130 in Molecule A: MET']: 185.750 , -14066.300 
+475->1115['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -144.560 , -14342.200 
+475->1116['80 in Molecule A: GLY']: -248.280 , -14568.600 
+475->1117['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -215.450 , -14429.200 
+475->1118['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -95.340 , -14509.400 
+475->1119['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -217.470 , -14700.900 
+475->1120['74 in Molecule A: LYS']: -62.620 , -14452.600 
+475->1121['129 in Molecule A: GLY', '130 in Molecule A: MET']: -170.910 , -14682.600 
+475->1122['100 in Molecule A: GLY']: 144.450 , -13778.700 
+475->1123['80 in Molecule A: GLY']: -248.180 , -14569.500 
+475->1124['112 in Molecule A: GLY']: -322.700 , -14551.500 
+475->1125['108 in Molecule A: GLY']: -246.110 , -14771.800 
+475->1126['26 in Molecule A: GLY']: 158.240 , -14142.800 
+475->1127['81 in Molecule A: GLY']: 299.650 , -14164.600 
+475->1128['199 in Molecule A: LYS']: -135.290 , -14450.900 
+475->1129['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -170.930 , -14461.300 
+475->1130['129 in Molecule A: GLY', '130 in Molecule A: MET']: -129.740 , -14304.800 
+475->1131['74 in Molecule A: LYS']: -190.270 , -14341.500 
+475->1132['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -145.880 , -14445.600 
+475->1133['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 6.520 , -13952.000 
+475->1134['112 in Molecule A: GLY']: -280.260 , -14464.500 
+475->1135['100 in Molecule A: GLY']: -294.540 , -14746.300 
+475->1136['78 in Molecule A: ARG']: -409.510 , -14760.600 
+475->1137['26 in Molecule A: GLY']: -275.940 , -14918.600 
+475->1138['100 in Molecule A: GLY']: -261.890 , -14734.500 
+475->1139['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -170.450 , -14865.000 
+475->1140['108 in Molecule A: GLY']: -273.130 , -14568.300 
+475->1141['74 in Molecule A: LYS']: 233.450 , -14232.600 
+475->1142['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 23.540 , -14174.700 
+475->1143['110 in Molecule A: GLY']: -322.610 , -14484.100 
+475->1144['108 in Molecule A: GLY']: 132.570 , -13992.600 
+475->1145['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -70.950 , -14300.600 
+475->1146['81 in Molecule A: GLY']: -228.380 , -14759.800 
+475->1147['129 in Molecule A: GLY', '130 in Molecule A: MET']: -190.680 , -14655.900 
+475->1148['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -299.420 , -14831.600 
+475->1149['100 in Molecule A: GLY']: 38.750 , -13981.400 
+475->1150['129 in Molecule A: GLY', '130 in Molecule A: MET']: -178.000 , -14652.200 
+475->1151['129 in Molecule A: GLY', '130 in Molecule A: MET']: -54.720 , -14321.300 
+475->1152['100 in Molecule A: GLY']: -298.150 , -14417.700 
+475->1153['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -287.020 , -14421.400 
+475->1154['100 in Molecule A: GLY']: -277.170 , -14474.300 
+475->1155['81 in Molecule A: GLY']: -86.300 , -14778.000 
+475->1156['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -116.330 , -14341.600 
+475->1157['129 in Molecule A: GLY']: 173.440 , -14233.500 
+475->1158['74 in Molecule A: LYS']: -135.430 , -14544.700 
+475->1159['112 in Molecule A: GLY']: 396.980 , -13718.500 
+475->1160['199 in Molecule A: LYS']: -215.810 , -14684.000 
+475->1161['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -229.560 , -14642.200 
+475->1162['108 in Molecule A: GLY']: 17.920 , -13605.500 
+475->1163['48 in Molecule A: TRP']: -183.620 , -14440.700 
+475->1164['108 in Molecule A: GLY']: -324.740 , -14483.600 
+475->1165['81 in Molecule A: GLY']: -204.670 , -14996.600 
+475->1166['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -243.600 , -14747.800 
+475->1167['26 in Molecule A: GLY']: 122.320 , -13911.800 
+475->1168['48 in Molecule A: TRP']: -154.110 , -14590.700 
+475->1169['129 in Molecule A: GLY', '130 in Molecule A: MET']: -193.330 , -14198.700 
+475->1170['26 in Molecule A: GLY']: -248.150 , -14729.600 
+475->1171['26 in Molecule A: GLY']: -246.980 , -14722.100 
+475->1172['108 in Molecule A: GLY']: -224.220 , -14698.400 
+475->1173['81 in Molecule A: GLY']: 113.610 , -14549.600 
+475->1174['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -227.660 , -14711.900 
+475->1175['129 in Molecule A: GLY', '130 in Molecule A: MET']: -125.190 , -14431.000 
+475->1176['129 in Molecule A: GLY', '130 in Molecule A: MET']: -194.130 , -14416.000 
+475->1177['129 in Molecule A: GLY']: -77.980 , -14582.200 
+475->1178['81 in Molecule A: GLY']: -253.810 , -14881.600 
+475->1179['130 in Molecule A: MET']: -156.590 , -14619.800 
+475->1180['26 in Molecule A: GLY']: 111.810 , -13871.400 
+475->1181['48 in Molecule A: TRP']: -13.700 , -14316.100 
+475->1182['26 in Molecule A: GLY']: -302.830 , -14551.500 
+475->1183['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -239.080 , -14521.600 
+475->1184['129 in Molecule A: GLY', '130 in Molecule A: MET']: -190.460 , -14564.500 
+475->1185['112 in Molecule A: GLY']: -156.430 , -14486.700 
+475->1186['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -197.990 , -14500.200 
+475->1187['112 in Molecule A: GLY']: -278.220 , -14566.100 
+475->1188['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 87.020 , -14252.400 
+475->1189['108 in Molecule A: GLY']: -181.620 , -14644.600 
+475->1190['81 in Molecule A: GLY']: -188.650 , -15033.100 
+475->1191['100 in Molecule A: GLY']: 204.670 , -13970.200 
+475->1192['129 in Molecule A: GLY']: -80.950 , -14474.300 
+475->1193['199 in Molecule A: LYS']: 127.110 , -13940.200 
+475->1194['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -236.460 , -14731.700 
+475->1195['48 in Molecule A: TRP']: -237.070 , -14500.100 
+475->1196['112 in Molecule A: GLY']: 125.590 , -14277.200 
+475->1197['129 in Molecule A: GLY', '130 in Molecule A: MET']: -201.510 , -14564.100 
+475->1198['108 in Molecule A: GLY']: -259.150 , -14521.500 
+475->1199['112 in Molecule A: GLY']: -322.610 , -14662.200 
+475->1200['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 329.920 , -14152.700 
+475->1201['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -169.720 , -14511.800 
+475->1202['79 in Molecule A: GLY']: 206.370 , -14294.300 
+475->1203['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -221.530 , -14923.300 
+475->1204['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -38.510 , -14706.500 
+475->1205['74 in Molecule A: LYS']: -108.870 , -14617.500 
+475->1206['112 in Molecule A: GLY']: -269.940 , -14540.700 
+475->1207['199 in Molecule A: LYS']: -53.170 , -14717.700 
+475->1208['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -244.230 , -14723.700 
+475->1209['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -241.360 , -14585.900 
+475->1210['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -243.370 , -14696.900 
+475->1211['100 in Molecule A: GLY']: 186.380 , -13821.100 
+475->1212['100 in Molecule A: GLY']: -270.780 , -14881.800 
+475->1213['48 in Molecule A: TRP']: -252.200 , -14594.900 
+475->1214['26 in Molecule A: GLY']: 280.230 , -13699.400 
+475->1215['78 in Molecule A: ARG']: -123.810 , -14374.700 
+475->1216['26 in Molecule A: GLY']: -241.630 , -14780.900 
+475->1217['108 in Molecule A: GLY']: -218.010 , -14728.100 
+475->1218['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -188.130 , -14653.900 
+475->1219['129 in Molecule A: GLY']: 319.420 , -13840.700 
+475->1220['129 in Molecule A: GLY', '130 in Molecule A: MET']: -181.170 , -14590.400 
+475->1221['110 in Molecule A: GLY']: -322.530 , -14540.500 
+475->1222['110 in Molecule A: GLY']: -286.030 , -14854.500 
+475->1223['81 in Molecule A: GLY']: -236.890 , -14776.200 
+475->1224['48 in Molecule A: TRP']: 246.990 , -13931.800 
+475->1225['48 in Molecule A: TRP']: -206.140 , -14448.200 
+475->1226['26 in Molecule A: GLY']: 370.800 , -13867.300 
+475->1227['108 in Molecule A: GLY']: -320.930 , -14486.500 
+475->1228['48 in Molecule A: TRP']: -204.440 , -14407.000 
+475->1229['48 in Molecule A: TRP']: 106.910 , -13952.800 
+475->1230['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -297.660 , -14303.400 
+475->1231['74 in Molecule A: LYS']: -229.980 , -14547.300 
+475->1232['81 in Molecule A: GLY']: 263.820 , -14225.500 
+475->1233['79 in Molecule A: GLY']: -198.890 , -14539.300 
+475->1234['199 in Molecule A: LYS']: -216.030 , -14686.500 
+475->1235['130 in Molecule A: MET']: -179.320 , -14708.000 
+475->1236['108 in Molecule A: GLY']: -289.610 , -14506.900 
+475->1237['112 in Molecule A: GLY']: 207.390 , -14151.200 
+475->1238['81 in Molecule A: GLY']: -280.610 , -15004.100 
+475->1239['26 in Molecule A: GLY']: 184.030 , -13935.500 
+475->1240['130 in Molecule A: TRP']: -125.960 , -14462.900 
+475->1241['100 in Molecule A: GLY']: -256.210 , -14791.100 
+475->1242['100 in Molecule A: GLY']: -261.880 , -14759.900 
+475->1243['48 in Molecule A: TRP']: 47.640 , -14110.200 
+475->1244['110 in Molecule A: GLY']: 366.360 , -13800.100 
+475->1245['100 in Molecule A: GLY']: -328.570 , -14407.400 
+475->1246['74 in Molecule A: LYS']: 20.610 , -14594.400 
+475->1247['74 in Molecule A: LYS']: -118.600 , -14367.800 
+475->1248['74 in Molecule A: LYS']: -119.130 , -14425.700 
+475->1249['26 in Molecule A: GLY']: -296.030 , -14627.300 
+475->1250['110 in Molecule A: GLY']: -328.220 , -14596.500 
+475->1251['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 103.840 , -14237.100 
+475->1252['74 in Molecule A: LYS']: -212.110 , -14666.100 
+475->1253['110 in Molecule A: GLY']: 299.560 , -13839.100 
+1250->1254['100 in Molecule A: GLY']: -284.410 , -14807.400 
+1250->1255['100 in Molecule A: GLY']: -298.740 , -14548.000 
+475->1256['110 in Molecule A: GLY']: 91.670 , -14391.800 
+1250->1257['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -188.840 , -14428.400 
+1250->1258['130 in Molecule A: MET']: -107.560 , -14453.600 
+1250->1259['199 in Molecule A: LYS']: 283.350 , -13798.500 
+1250->1260['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -205.310 , -14671.500 
+1250->1261['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -159.450 , -14696.300 
+1250->1262['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: 191.340 , -13751.800 
+1250->1263['129 in Molecule A: GLY', '130 in Molecule A: MET']: -192.440 , -14594.700 
+1250->1264['112 in Molecule A: GLY']: -262.800 , -14675.000 
+1250->1265['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 6.490 , -13792.400 
+1250->1266['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -266.450 , -14525.500 
+1250->1267['26 in Molecule A: GLY']: -288.220 , -14671.100 
+1250->1268['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 273.910 , -13804.600 
+1250->1269['130 in Molecule A: MET']: -163.430 , -14758.700 
+1250->1270['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -230.940 , -14561.600 
+1250->1271['112 in Molecule A: GLY']: -260.410 , -14608.500 
+1250->1272['100 in Molecule A: GLY']: -281.450 , -14671.200 
+1250->1273['130 in Molecule A: MET']: -242.590 , -14271.800 
+1250->1274['100 in Molecule A: GLY']: 345.130 , -13686.300 
+1250->1275['79 in Molecule A: GLY']: -153.640 , -14577.100 
+1250->1276['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -104.840 , -14181.000 
+1250->1277['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -238.330 , -14778.700 
+1250->1278['112 in Molecule A: GLY']: -266.000 , -14762.000 
+1250->1279['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 164.540 , -13912.400 
+1250->1280['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 367.520 , -13598.800 
+1250->1281['199 in Molecule A: LYS']: -164.340 , -14609.200 
+1250->1282['74 in Molecule A: LYS']: 32.530 , -14283.400 
+1250->1283['199 in Molecule A: LYS']: -130.640 , -14445.100 
+1250->1284['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -171.250 , -14985.400 
+1250->1285['48 in Molecule A: TRP']: -196.870 , -14609.900 
+1250->1286['129 in Molecule A: GLY']: 133.590 , -14218.600 
+1250->1287['110 in Molecule A: GLY']: -326.010 , -14517.900 
+1250->1288['80 in Molecule A: GLY']: 32.430 , -14272.900 
+1250->1289['78 in Molecule A: ARG']: -124.360 , -14328.300 
+1250->1290['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -203.910 , -14606.900 
+1250->1291['26 in Molecule A: GLY']: -252.080 , -14942.900 
+1250->1292['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 235.670 , -14210.800 
+1250->1293['100 in Molecule A: GLY']: -290.340 , -14581.700 
+1250->1294['78 in Molecule A: ARG']: -247.250 , -14399.500 
+1250->1295['26 in Molecule A: GLY']: -310.850 , -14790.100 
+1250->1296['100 in Molecule A: GLY']: 62.410 , -14256.800 
+1250->1297['108 in Molecule A: GLY']: -245.160 , -14765.500 
+1250->1298['26 in Molecule A: GLY']: 289.560 , -14106.300 
+1250->1299['108 in Molecule A: GLY']: -265.560 , -14337.700 
+1250->1300['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -179.870 , -14940.200 
+1250->1301['74 in Molecule A: LYS']: -175.470 , -14626.900 
+1250->1302['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 57.530 , -14433.400 
+1250->1303['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -121.110 , -14456.800 
+1250->1304['112 in Molecule A: GLY']: 325.400 , -13918.500 
+1250->1305['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -193.150 , -14422.300 
+1250->1306['199 in Molecule A: LYS']: 282.090 , -13875.800 
+1250->1307['100 in Molecule A: GLY']: -300.590 , -14317.200 
+1250->1308['48 in Molecule A: TRP']: -227.620 , -14535.700 
+1250->1309['129 in Molecule A: GLY', '130 in Molecule A: MET']: -205.990 , -14680.500 
+1250->1310['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 62.250 , -14002.500 
+1250->1311['26 in Molecule A: GLY']: -276.640 , -14936.300 
+1250->1312['129 in Molecule A: GLY']: 103.250 , -14062.100 
+1250->1313['199 in Molecule A: LYS']: -96.520 , -14596.100 
+1250->1314['199 in Molecule A: LYS']: 239.790 , -13929.000 
+1250->1315['78 in Molecule A: LYS']: -66.700 , -13996.700 
+1250->1316['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -221.620 , -14600.800 
+1250->1317['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -180.380 , -14999.500 
+1250->1318['48 in Molecule A: TRP']: -218.120 , -14599.300 
+1250->1319['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 167.270 , -14441.800 
+1250->1320['108 in Molecule A: GLY']: -229.240 , -14662.700 
+1250->1321['74 in Molecule A: LYS']: -140.190 , -14329.500 
+1250->1322['78 in Molecule A: LYS']: -110.780 , -14263.700 
+1250->1323['112 in Molecule A: GLY']: 353.210 , -13582.300 
+1250->1324['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -326.110 , -14407.000 
+1250->1325['78 in Molecule A: ARG']: -116.310 , -14406.700 
+1250->1326['129 in Molecule A: GLY', '130 in Molecule A: MET']: 40.460 , -14130.200 
+1250->1327['112 in Molecule A: GLY']: -281.010 , -14333.800 
+1250->1328['26 in Molecule A: GLY']: -298.980 , -15068.700 
+1250->1329['74 in Molecule A: LYS']: 180.680 , -14365.400 
+1250->1330['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -42.540 , -14525.300 
+1250->1331['74 in Molecule A: LYS', '78 in Molecule A: ARG']: 234.210 , -13989.000 
+1250->1332['48 in Molecule A: TRP']: -257.640 , -14704.300 
+1250->1333['48 in Molecule A: TRP']: -231.210 , -14679.100 
+1250->1334['130 in Molecule A: MET']: 135.940 , -14025.000 
+1250->1335['74 in Molecule A: LYS']: -109.610 , -14630.000 
+1250->1336['26 in Molecule A: GLY']: -281.760 , -14739.800 
+1250->1337['100 in Molecule A: GLY']: -245.220 , -14837.400 
+1250->1338['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -49.730 , -13997.500 
+1250->1339['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -176.380 , -14707.100 
+1250->1340['26 in Molecule A: GLY']: 320.800 , -13953.200 
+1250->1341['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -281.270 , -14697.100 
+1250->1342['129 in Molecule A: GLY', '130 in Molecule A: MET']: -174.540 , -14553.100 
+1250->1343['130 in Molecule A: MET']: -164.030 , -14643.500 
+1250->1344['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -176.950 , -14213.400 
+1250->1345['74 in Molecule A: LYS']: -39.220 , -14504.600 
+1250->1346['26 in Molecule A: GLY']: -32.980 , -14148.600 
+1250->1347['129 in Molecule A: GLY', '130 in Molecule A: MET']: -173.060 , -14661.500 
+1250->1348['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 273.670 , -14067.400 
+1250->1349['129 in Molecule A: GLY', '130 in Molecule A: MET']: -168.400 , -14411.300 
+1250->1350['74 in Molecule A: LYS']: -109.010 , -14388.700 
+1250->1351['110 in Molecule A: GLY']: -330.010 , -14527.100 
+1250->1352['48 in Molecule A: TRP']: -204.050 , -14576.100 
+1250->1353['199 in Molecule A: LYS']: 211.940 , -14140.100 
+1250->1354['48 in Molecule A: TRP']: -168.050 , -14474.600 
+1250->1355['110 in Molecule A: GLY']: 163.300 , -13989.100 
+1250->1356['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -234.310 , -14892.100 
+1250->1357['100 in Molecule A: GLY']: -268.680 , -14600.500 
+1250->1358['79 in Molecule A: GLY']: -238.440 , -14504.400 
+1250->1359['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -216.510 , -14596.300 
+1250->1360['79 in Molecule A: GLY']: -28.040 , -14675.700 
+1250->1361['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -236.740 , -14565.200 
+1250->1362['110 in Molecule A: GLY']: -326.120 , -14544.600 
+1250->1363['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -290.480 , -14423.800 
+1250->1364['199 in Molecule A: LYS']: -142.160 , -14589.000 
+1250->1365['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -40.190 , -14134.300 
+1250->1366['100 in Molecule A: GLY']: -265.030 , -14347.600 
+1250->1367['199 in Molecule A: LYS']: 19.850 , -14004.900 
+1250->1368['26 in Molecule A: GLY']: -249.290 , -14961.800 
+1250->1369['108 in Molecule A: GLY']: 64.460 , -14265.400 
+1250->1370['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -154.300 , -14538.100 
+1250->1371['79 in Molecule A: GLY']: -198.460 , -14813.000 
+1250->1372['48 in Molecule A: TRP']: -199.730 , -14482.200 
+1250->1373['108 in Molecule A: GLY']: -256.430 , -14538.900 
+1250->1374['129 in Molecule A: GLY', '130 in Molecule A: MET']: -164.190 , -14710.200 
+1250->1375['79 in Molecule A: GLY']: -39.390 , -14475.300 
+1250->1376['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 381.670 , -13475.300 
+1250->1377['48 in Molecule A: TRP']: -216.450 , -14616.400 
+1250->1378['129 in Molecule A: GLY']: -136.600 , -14527.800 
+1250->1379['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 335.570 , -13560.100 
+1250->1380['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -195.970 , -14428.100 
+1250->1381['100 in Molecule A: GLY']: -271.970 , -14837.500 
+1250->1382['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -76.740 , -14420.300 
+1250->1383['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -57.310 , -14547.500 
+1250->1384['112 in Molecule A: GLY']: -281.750 , -14806.500 
+1250->1385['108 in Molecule A: GLY']: 68.660 , -14197.800 
+1250->1386['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -209.990 , -14569.300 
+1250->1387['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -3.910 , -14515.000 
+1250->1388['110 in Molecule A: GLY']: -280.890 , -14767.300 
+1250->1389['129 in Molecule A: GLY', '130 in Molecule A: MET']: -109.160 , -14444.400 
+1250->1390['26 in Molecule A: GLY']: -297.240 , -14926.800 
+1250->1391['199 in Molecule A: LYS']: -233.030 , -14761.500 
+1250->1392['129 in Molecule A: GLY', '130 in Molecule A: MET']: -353.700 , -14165.800 
+1250->1393['110 in Molecule A: GLY']: -207.810 , -14894.700 
+1250->1394['112 in Molecule A: GLY']: -329.990 , -14518.600 
+1250->1395['48 in Molecule A: TRP']: 86.460 , -14008.800 
+1250->1396['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -223.710 , -14681.800 
+1250->1397['78 in Molecule A: ARG']: -204.870 , -14338.600 
+1250->1398['79 in Molecule A: GLY', '80 in Molecule A: GLY']: 197.310 , -14086.600 
+1250->1399['26 in Molecule A: GLY']: -256.090 , -14818.300 
+1250->1400['199 in Molecule A: LYS']: -163.170 , -14630.500 
+1250->1401['129 in Molecule A: GLY']: -170.490 , -14485.800 
+1250->1402['74 in Molecule A: LYS']: -150.480 , -14461.900 
+1250->1403['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -183.950 , -14564.000 
+1250->1404['100 in Molecule A: GLY']: -203.660 , -14382.300 
+1250->1405['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -20.550 , -14611.200 
+1250->1406['100 in Molecule A: GLY']: -270.150 , -14763.800 
+1250->1407['26 in Molecule A: GLY']: -302.050 , -14903.400 
+1250->1408['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -169.020 , -14335.100 
+1250->1409['129 in Molecule A: GLY', '130 in Molecule A: MET']: -144.450 , -14495.400 
+1250->1410['48 in Molecule A: TRP']: 116.950 , -14213.300 
+1250->1411['26 in Molecule A: GLY']: 219.920 , -13994.400 
+1250->1412['129 in Molecule A: GLY']: -111.740 , -14549.000 
+1250->1413['26 in Molecule A: GLY']: -291.680 , -14929.900 
+1250->1414['100 in Molecule A: GLY']: -247.950 , -14486.900 
+1250->1415['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -326.110 , -14389.500 
+1250->1416['78 in Molecule A: LYS']: -108.980 , -14134.500 
+1250->1417['199 in Molecule A: LYS']: -145.220 , -14258.100 
+1250->1418['74 in Molecule A: LYS']: -223.180 , -14657.900 
+1250->1419['112 in Molecule A: GLY']: -75.790 , -14245.400 
+1250->1420['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -260.740 , -14477.300 
+1250->1421['74 in Molecule A: LYS']: -118.440 , -14774.500 
+1250->1422['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -137.010 , -14360.500 
+1250->1423['26 in Molecule A: GLY']: 163.960 , -13996.900 
+1250->1424['80 in Molecule A: GLY']: -130.000 , -14689.200 
+1250->1425['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -231.060 , -14631.900 
+1250->1426['100 in Molecule A: GLY']: -328.330 , -14980.400 
+1250->1427['112 in Molecule A: GLY']: -330.100 , -14329.300 
+1250->1428['108 in Molecule A: GLY']: -228.410 , -14845.500 
+1250->1429['199 in Molecule A: LYS']: -66.960 , -14334.800 
+1250->1430['112 in Molecule A: GLY']: 106.990 , -14064.000 
+1250->1431['130 in Molecule A: MET']: -102.210 , -14151.200 
+1250->1432['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -238.360 , -14447.100 
+1250->1433['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 82.770 , -14060.800 
+1250->1434['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -221.780 , -14446.200 
+1250->1435['100 in Molecule A: GLY']: -280.900 , -14712.100 
+1250->1436['129 in Molecule A: GLY', '130 in Molecule A: MET']: 123.220 , -13845.000 
+1250->1437['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -256.920 , -14636.400 
+1250->1438['129 in Molecule A: GLY']: 97.130 , -14207.000 
+1250->1439['74 in Molecule A: LYS']: -68.080 , -14372.300 
+1250->1440['199 in Molecule A: LYS']: -114.840 , -14635.300 
+1250->1441['100 in Molecule A: GLY']: 554.380 , -13355.300 
+1250->1442['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -283.760 , -14528.300 
+1250->1443['80 in Molecule A: GLY']: -237.590 , -14590.400 
+1250->1444['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -87.790 , -14560.800 
+1250->1445['80 in Molecule A: GLY']: -160.070 , -14691.100 
+1250->1446['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 229.690 , -13693.700 
+1250->1447['108 in Molecule A: GLY']: 204.260 , -13732.500 
+1250->1448['199 in Molecule A: LYS']: -16.900 , -14372.500 
+1250->1449['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -259.260 , -14504.200 
+1250->1450['129 in Molecule A: GLY', '130 in Molecule A: MET']: -190.430 , -14401.300 
+1250->1451['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -192.540 , -14475.700 
+1250->1452['199 in Molecule A: LYS']: -168.750 , -14480.800 
+1250->1453['100 in Molecule A: GLY']: 170.630 , -13985.800 
+1250->1454['26 in Molecule A: GLY']: 19.770 , -14333.300 
+1250->1455['112 in Molecule A: GLY']: -298.010 , -14815.800 
+1250->1456['108 in Molecule A: GLY']: -209.950 , -14807.300 
+1250->1457['74 in Molecule A: LYS']: -213.990 , -14492.000 
+1250->1458['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -255.320 , -14623.300 
+1250->1459['129 in Molecule A: GLY']: -199.470 , -14497.000 
+1250->1460['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -220.150 , -14452.200 
+1250->1461['112 in Molecule A: GLY']: -298.970 , -14569.400 
+1250->1462['199 in Molecule A: LYS']: 150.450 , -14008.400 
+1250->1463['48 in Molecule A: TRP']: -261.830 , -14374.100 
+1250->1464['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -134.020 , -14397.300 
+1250->1465['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 175.210 , -14022.800 
+1250->1466['108 in Molecule A: GLY']: 210.730 , -13988.500 
+1250->1467['26 in Molecule A: GLY']: -306.800 , -14900.200 
+1250->1468['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -284.910 , -14769.000 
+1250->1469['74 in Molecule A: LYS']: -77.150 , -14613.600 
+1250->1470['78 in Molecule A: ARG']: -133.650 , -14471.500 
+1250->1471['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -138.090 , -14390.400 
+1250->1472['110 in Molecule A: GLY']: -330.010 , -14435.600 
+1250->1473['80 in Molecule A: GLY']: 193.940 , -14099.800 
+1250->1474['78 in Molecule A: ARG']: -274.080 , -14505.700 
+1250->1475['108 in Molecule A: GLY']: 269.350 , -13873.200 
+1250->1476['110 in Molecule A: GLY']: -330.090 , -14557.900 
+1250->1477['26 in Molecule A: GLY']: -271.600 , -15094.800 
+1250->1478['129 in Molecule A: GLY']: 174.190 , -14022.200 
+1250->1479['108 in Molecule A: GLY']: -222.500 , -14737.400 
+1250->1480['100 in Molecule A: GLY']: -230.930 , -14891.200 
+1250->1481['199 in Molecule A: LYS']: 150.510 , -14019.700 
+1250->1482['129 in Molecule A: GLY', '130 in Molecule A: MET']: -149.880 , -14672.200 
+1250->1483['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -239.170 , -14574.400 
+1250->1484['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -245.500 , -14295.200 
+1250->1485['26 in Molecule A: GLY']: -296.320 , -14853.000 
+1250->1486['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -22.310 , -14550.000 
+1250->1487['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -145.060 , -14379.500 
+1250->1488['78 in Molecule A: LYS']: -88.520 , -14346.800 
+1250->1489['199 in Molecule A: LYS']: 52.920 , -13978.900 
+1250->1490['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -221.760 , -14171.500 
+1250->1491['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -186.510 , -14639.200 
+1250->1492['74 in Molecule A: LYS']: -124.790 , -14370.100 
+1250->1493['129 in Molecule A: GLY', '130 in Molecule A: MET']: -157.180 , -14605.700 
+1250->1494['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -121.230 , -14332.800 
+1250->1495['48 in Molecule A: TRP']: 136.420 , -11219.300 
+1250->1496['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -290.850 , -14647.400 
+1250->1497['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 211.650 , -13909.200 
+1250->1498['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 116.280 , -14205.300 
+1250->1499['129 in Molecule A: GLY', '130 in Molecule A: MET']: -212.020 , -14550.300 
+1250->1500['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -188.570 , -14472.300 
+1250->1501['129 in Molecule A: GLY', '130 in Molecule A: MET']: -129.600 , -14355.800 
+1250->1502['26 in Molecule A: GLY']: -298.880 , -14756.800 
+1250->1503['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 144.750 , -13914.200 
+1250->1504['100 in Molecule A: GLY']: -289.110 , -14444.400 
+1250->1505['130 in Molecule A: MET']: -8.490 , -14297.700 
+1250->1506['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -205.300 , -14593.800 
+1250->1507['129 in Molecule A: GLY']: -82.890 , -14620.700 
+1250->1508['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -184.170 , -14523.400 
+1250->1509['112 in Molecule A: GLY']: 182.150 , -14180.000 
+1250->1510['74 in Molecule A: LYS']: -21.140 , -14707.000 
+1250->1511['74 in Molecule A: LYS']: 91.560 , -14082.800 
+1250->1512['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -256.800 , -14765.400 
+1250->1513['100 in Molecule A: GLY']: -277.810 , -14665.600 
+1250->1514['81 in Molecule A: GLY']: -205.310 , -14975.300 
+1250->1515['74 in Molecule A: LYS']: -6.650 , -14551.500 
+1250->1516['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 18.170 , -13993.900 
+1250->1517['112 in Molecule A: GLY']: -329.990 , -14466.100 
+1250->1518['48 in Molecule A: TRP']: -262.300 , -14420.900 
+1250->1519['74 in Molecule A: LYS']: -63.460 , -14382.100 
+1250->1520['110 in Molecule A: GLY']: -46.800 , -14475.700 
+1250->1521['108 in Molecule A: GLY']: -249.990 , -14726.400 
+1250->1522['130 in Molecule A: MET']: -198.230 , -14809.300 
+1250->1523['108 in Molecule A: GLY']: -221.680 , -14819.000 
+1250->1524['48 in Molecule A: TRP']: 103.270 , -14344.000 
+1250->1525['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -187.450 , -14510.500 
+1250->1526['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 73.860 , -14405.700 
+1250->1527['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -131.590 , -14377.000 
+1250->1528['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 105.260 , -13921.900 
+1250->1529['100 in Molecule A: GLY']: -270.560 , -14801.200 
+1250->1530['130 in Molecule A: MET']: -185.320 , -14742.000 
+1250->1531['100 in Molecule A: GLY']: -241.470 , -14705.000 
+1250->1532['74 in Molecule A: LYS']: -150.390 , -14675.800 
+1250->1533['81 in Molecule A: GLY']: -248.970 , -14793.800 
+1250->1534['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -61.550 , -14446.100 
+1250->1535['74 in Molecule A: LYS']: -148.390 , -14455.000 
+1250->1536['80 in Molecule A: GLY']: -164.990 , -14660.700 
+1250->1537['112 in Molecule A: GLY']: -329.900 , -14575.400 
+1250->1538['112 in Molecule A: GLY']: 148.970 , -13998.000 
+1250->1539['108 in Molecule A: GLY']: -258.080 , -14730.900 
+1250->1540['48 in Molecule A: TRP']: -229.820 , -14585.000 
+1250->1541['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -119.780 , -14529.800 
+1250->1542['26 in Molecule A: GLY']: -271.730 , -14783.800 
+1250->1543['130 in Molecule A: MET']: 316.470 , -13913.800 
+1250->1544['100 in Molecule A: GLY']: 22.650 , -14566.300 
+1250->1545['129 in Molecule A: GLY', '130 in Molecule A: MET']: -182.490 , -14512.900 
+1250->1546['74 in Molecule A: LYS']: -150.960 , -14653.000 
+1250->1547['129 in Molecule A: GLY', '130 in Molecule A: MET']: -137.700 , -14537.800 
+1250->1548['108 in Molecule A: GLY']: -247.480 , -14707.900 
+1250->1549['112 in Molecule A: GLY']: 78.780 , -14252.300 
+1250->1550['199 in Molecule A: LYS']: 273.710 , -13980.800 
+1250->1551['112 in Molecule A: GLY']: -289.320 , -14555.200 
+1250->1552['74 in Molecule A: LYS']: 17.280 , -14584.000 
+1250->1553['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -208.320 , -15028.300 
+1250->1554['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -180.800 , -14888.500 
+1250->1555['129 in Molecule A: GLY']: -83.140 , -14575.400 
+1250->1556['108 in Molecule A: GLY']: 199.030 , -13957.000 
+1250->1557['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -222.810 , -14415.600 
+1250->1558['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -95.510 , -14322.300 
+1250->1559['129 in Molecule A: GLY']: 202.720 , -13902.900 
+1250->1560['129 in Molecule A: GLY', '130 in Molecule A: MET']: -203.260 , -14666.800 
+1250->1561['48 in Molecule A: TRP']: -200.520 , -14421.200 
+1250->1562['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -159.480 , -14962.700 
+1250->1563['78 in Molecule A: ARG']: -53.250 , -13938.000 
+1250->1564['48 in Molecule A: TRP']: -253.350 , -14492.900 
+1250->1565['108 in Molecule A: GLY']: 145.770 , -13928.800 
+1250->1566['199 in Molecule A: LYS']: -113.840 , -14666.900 
+1250->1567['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -176.650 , -14854.500 
+1250->1568['81 in Molecule A: GLY']: -213.220 , -14475.100 
+1250->1569['48 in Molecule A: TRP']: 166.900 , -13685.500 
+1250->1570['74 in Molecule A: LYS']: -19.160 , -14448.500 
+1250->1571['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -240.380 , -14608.700 
+1250->1572['48 in Molecule A: TRP']: 115.530 , -13987.100 
+1250->1573['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -159.480 , -14134.800 
+1250->1574['110 in Molecule A: GLY']: -237.290 , -14786.100 
+1250->1575['199 in Molecule A: LYS']: 337.680 , -13832.300 
+1250->1576['100 in Molecule A: GLY']: 22.560 , -14172.000 
+1250->1577['110 in Molecule A: GLY']: -330.010 , -14546.300 
+1250->1578['130 in Molecule A: MET']: -204.920 , -14600.100 
+1250->1579['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -318.340 , -14355.700 
+1250->1580['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -194.320 , -14686.100 
+1250->1581['26 in Molecule A: GLY']: -14.470 , -14081.600 
+1250->1582['199 in Molecule A: LYS']: 82.610 , -14502.200 
+1250->1583['74 in Molecule A: LYS']: -123.210 , -14515.300 
+1250->1584['74 in Molecule A: LYS']: -218.090 , -14677.300 
+1250->1585['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -225.500 , -14625.800 
+1250->1586['48 in Molecule A: TRP']: -248.520 , -14542.000 
+1250->1587['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -84.390 , -14664.600 
+1250->1588['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 294.710 , -13953.700 
+1250->1589['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -175.910 , -14415.200 
+1250->1590['100 in Molecule A: GLY']: -263.230 , -14717.500 
+1250->1591['112 in Molecule A: GLY']: -275.850 , -14834.800 
+1250->1592['74 in Molecule A: LYS']: 12.230 , -14274.000 
+1250->1593['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -147.730 , -14434.100 
+1250->1594['129 in Molecule A: GLY', '130 in Molecule A: MET']: -175.520 , -14711.200 
+1250->1595['108 in Molecule A: GLY']: -19.140 , -14380.800 
+1250->1596['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -232.500 , -14791.700 
+1250->1597['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -123.310 , -14540.100 
+1250->1598['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -145.860 , -14334.000 
+1250->1599['74 in Molecule A: LYS']: 92.580 , -14348.400 
+1250->1600['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -198.480 , -14947.700 
+1250->1601['108 in Molecule A: GLY']: 295.710 , -13687.700 
+1250->1602['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -291.920 , -15153.500 
+1250->1603['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -256.080 , -14871.800 
+1250->1604['74 in Molecule A: LYS']: -105.750 , -14403.300 
+1250->1605['108 in Molecule A: GLY']: 187.860 , -13950.600 
+1250->1606['78 in Molecule A: ARG']: -177.780 , -14444.400 
+1250->1607['129 in Molecule A: GLY', '130 in Molecule A: MET']: -502.270 , -14199.800 
+1250->1608['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -91.670 , -14313.300 
+1250->1609['48 in Molecule A: TRP']: -233.490 , -14809.200 
+1250->1610['110 in Molecule A: GLY']: -330.100 , -14433.500 
+1250->1611['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 301.410 , -13853.700 
+1250->1612['81 in Molecule A: GLY']: -114.970 , -15053.300 
+1250->1613['108 in Molecule A: GLY']: -328.400 , -14440.900 
+1250->1614['110 in Molecule A: GLY']: -268.260 , -14674.200 
+1250->1615['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -216.230 , -14211.900 
+1250->1616['199 in Molecule A: LYS']: -206.970 , -14658.500 
+1250->1617['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -201.170 , -14603.600 
+1250->1618['74 in Molecule A: LYS']: 52.550 , -14418.600 
+1250->1619['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -173.220 , -14859.300 
+1250->1620['80 in Molecule A: GLY']: -163.670 , -14636.400 
+1250->1621['81 in Molecule A: GLY']: 171.170 , -14510.200 
+1250->1622['108 in Molecule A: GLY']: -7.160 , -14307.400 
+1250->1623['81 in Molecule A: GLY']: -248.310 , -14904.000 
+1250->1624['199 in Molecule A: LYS']: -65.260 , -14465.300 
+1250->1625['129 in Molecule A: GLY', '130 in Molecule A: MET']: -96.630 , -14254.100 
+1250->1626['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -201.400 , -14676.400 
+1250->1627['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -215.730 , -14398.500 
+1250->1628['129 in Molecule A: GLY']: 176.220 , -14152.900 
+1250->1629['74 in Molecule A: LYS']: -95.180 , -14727.100 
+1250->1630['48 in Molecule A: TRP']: -241.840 , -14688.900 
+1250->1631['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -95.370 , -14052.500 
+1250->1632['81 in Molecule A: GLY']: -250.490 , -14994.800 
+1250->1633['74 in Molecule A: LYS']: -212.320 , -14719.400 
+1250->1634['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 120.870 , -14231.500 
+1250->1635['74 in Molecule A: LYS']: -26.340 , -14526.700 
+1250->1636['199 in Molecule A: LYS']: 116.640 , -13667.000 
+1250->1637['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -194.390 , -14611.000 
+1250->1638['199 in Molecule A: LYS']: -299.030 , -14550.200 
+1250->1639['129 in Molecule A: GLY', '130 in Molecule A: MET']: -137.980 , -14492.000 
+1250->1640['110 in Molecule A: GLY']: 371.980 , -13829.400 
+1250->1641['48 in Molecule A: TRP']: -201.390 , -14538.500 
+1250->1642['48 in Molecule A: TRP']: -227.450 , -14623.000 
+1250->1643['26 in Molecule A: GLY']: 92.130 , -14294.900 
+1250->1644['26 in Molecule A: GLY']: -268.800 , -14728.500 
+1250->1645['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -99.830 , -14303.300 
+1250->1646['199 in Molecule A: LYS']: -80.070 , -14552.500 
+1250->1647['112 in Molecule A: GLY']: -329.890 , -14537.100 
+1250->1648['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -179.590 , -14320.100 
+1250->1649['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 453.170 , -13976.700 
+1250->1650['78 in Molecule A: LYS']: -86.110 , -14018.300 
+1250->1651['129 in Molecule A: GLY']: -170.760 , -14489.200 
+1250->1652['78 in Molecule A: ARG']: -207.910 , -14740.400 
+1250->1653['199 in Molecule A: LYS']: 157.140 , -14046.300 
+1250->1654['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -148.410 , -14233.500 
+1250->1655['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -238.130 , -14809.700 
+1250->1656['26 in Molecule A: GLY']: 224.530 , -13984.200 
+1250->1657['112 in Molecule A: GLY']: -329.890 , -14618.700 
+1250->1658['129 in Molecule A: GLY', '130 in Molecule A: MET']: -64.200 , -14014.000 
+1250->1659['26 in Molecule A: GLY']: -272.010 , -14880.700 
+1250->1660['129 in Molecule A: GLY', '130 in Molecule A: MET']: -165.490 , -14668.500 
+1250->1661['100 in Molecule A: GLY']: -242.360 , -14616.200 
+1250->1662['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -182.990 , -15328.900 
+1250->1663['100 in Molecule A: GLY']: -258.600 , -14768.500 
+1250->1664['74 in Molecule A: LYS']: -75.100 , -14306.100 
+1250->1665['74 in Molecule A: LYS']: -157.420 , -14828.800 
+1250->1666['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -115.720 , -14378.800 
+1250->1667['108 in Molecule A: GLY']: 231.570 , -14037.100 
+1250->1668['100 in Molecule A: GLY']: -298.610 , -14392.900 
+1250->1669['48 in Molecule A: TRP']: -218.060 , -14625.200 
+1250->1670['110 in Molecule A: GLY']: 33.830 , -14116.800 
+1250->1671['129 in Molecule A: GLY']: -192.360 , -14553.800 
+1250->1672['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -79.690 , -14578.300 
+1250->1673['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -197.160 , -14606.500 
+1250->1674['80 in Molecule A: GLY']: -150.630 , -14739.900 
+1250->1675['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -288.420 , -14739.600 
+1250->1676['112 in Molecule A: GLY']: -329.890 , -14549.500 
+1250->1677['129 in Molecule A: GLY', '130 in Molecule A: MET']: 160.060 , -14235.600 
+1250->1678['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -226.330 , -14489.400 
+1250->1679['112 in Molecule A: GLY']: -135.020 , -14812.700 
+1250->1680['112 in Molecule A: GLY']: -329.990 , -14401.900 
+1250->1681['129 in Molecule A: GLY']: -173.890 , -14502.000 
+1250->1682['199 in Molecule A: LYS']: -111.590 , -14612.000 
+1250->1683['74 in Molecule A: LYS']: 2.870 , -14544.100 
+1250->1684['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -221.020 , -14553.700 
+1250->1685['48 in Molecule A: TRP']: -104.870 , -14685.000 
+1250->1686['74 in Molecule A: LYS']: -161.970 , -14702.500 
+1250->1687['78 in Molecule A: LYS']: 21.900 , -13959.400 
+1250->1688['199 in Molecule A: LYS']: -192.510 , -14618.500 
+1250->1689['199 in Molecule A: LYS']: -105.810 , -14672.100 
+1250->1690['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -162.350 , -14971.900 
+1250->1691['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 60.440 , -14440.400 
+1250->1692['48 in Molecule A: TRP']: -236.970 , -14685.900 
+1250->1693['74 in Molecule A: LYS']: -112.030 , -14666.400 
+1250->1694['81 in Molecule A: GLY']: 199.710 , -13861.500 
+1250->1695['108 in Molecule A: GLY']: -226.180 , -14853.100 
+1250->1696['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -120.200 , -14458.600 
+1250->1697['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -203.950 , -14571.300 
+1250->1698['48 in Molecule A: TRP']: 52.250 , -14117.300 
+1250->1699['129 in Molecule A: GLY', '130 in Molecule A: MET']: -114.300 , -14353.900 
+1250->1700['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 57.090 , -13912.100 
+1250->1701['78 in Molecule A: LYS', '79 in Molecule A: GLY']: -78.610 , -14055.400 
+1250->1702['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -104.950 , -14201.700 
+1250->1703['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -240.240 , -14737.600 
+1250->1704['112 in Molecule A: GLY']: 66.840 , -14036.100 
+1250->1705['199 in Molecule A: LYS']: -365.780 , -14437.300 
+1250->1706['129 in Molecule A: GLY']: 84.370 , -14183.600 
+1250->1707['26 in Molecule A: GLY']: -320.280 , -14320.100 
+1250->1708['129 in Molecule A: GLY']: -109.200 , -14566.000 
+1250->1709['129 in Molecule A: GLY', '130 in Molecule A: MET']: -154.130 , -14582.500 
+1250->1710['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 57.630 , -14508.700 
+1250->1711['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -83.270 , -14268.400 
+1250->1712['26 in Molecule A: GLY']: 111.320 , -14080.600 
+1250->1713['129 in Molecule A: GLY']: -129.800 , -14586.900 
+1250->1714['110 in Molecule A: GLY']: -274.510 , -14907.700 
+1250->1715['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -212.550 , -14466.600 
+1250->1716['130 in Molecule A: MET']: -191.240 , -14773.100 
+1250->1717['129 in Molecule A: GLY', '130 in Molecule A: MET']: -340.220 , -14642.500 
+1250->1718['199 in Molecule A: LYS']: 166.460 , -13932.200 
+1250->1719['81 in Molecule A: GLY']: -222.860 , -14851.200 
+1250->1720['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -174.290 , -14827.800 
+1250->1721['80 in Molecule A: GLY']: -20.320 , -14553.600 
+1250->1722['48 in Molecule A: TRP']: -233.860 , -14636.100 
+1250->1723['26 in Molecule A: GLY']: -284.700 , -14374.900 
+1250->1724['199 in Molecule A: LYS']: 221.370 , -14098.200 
+1250->1725['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -187.810 , -14960.700 
+1250->1726['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -109.310 , -14238.600 
+1250->1727['199 in Molecule A: LYS']: 175.780 , -14200.800 
+1250->1728['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -212.060 , -14698.700 
+1250->1729['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 22.610 , -14482.800 
+1250->1730['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -220.460 , -14695.400 
+1250->1731['112 in Molecule A: GLY']: -329.890 , -14483.100 
+1250->1732['100 in Molecule A: GLY']: -273.870 , -14699.100 
+1250->1733['74 in Molecule A: LYS']: -140.910 , -14752.100 
+1250->1734['129 in Molecule A: GLY', '130 in Molecule A: MET']: 288.450 , -14016.000 
+1250->1735['26 in Molecule A: GLY']: -248.660 , -14785.200 
+1250->1736['81 in Molecule A: GLY']: -17.370 , -14484.700 
+1250->1737['199 in Molecule A: LYS']: -214.570 , -14543.100 
+1250->1738['110 in Molecule A: GLY']: -329.450 , -14557.900 
+1250->1739['79 in Molecule A: GLY']: -174.230 , -14551.300 
+1250->1740['108 in Molecule A: GLY']: -258.130 , -14716.500 
+1250->1741['100 in Molecule A: GLY']: 337.860 , -13917.300 
+1250->1742['108 in Molecule A: GLY']: -62.120 , -14217.300 
+1250->1743['112 in Molecule A: GLY']: -329.790 , -14513.800 
+1250->1744['78 in Molecule A: LYS']: -135.550 , -13862.800 
+1250->1745['100 in Molecule A: GLY']: 100.470 , -14222.100 
+1250->1746['108 in Molecule A: GLY']: -328.110 , -14442.000 
+1250->1747['74 in Molecule A: LYS']: -42.420 , -14702.600 
+1250->1748['129 in Molecule A: GLY']: -184.980 , -14377.800 
+1250->1749['112 in Molecule A: GLY']: 313.590 , -14056.900 
+1250->1750['48 in Molecule A: TRP']: -197.700 , -11996.700 
+1250->1751['100 in Molecule A: GLY']: 160.190 , -14045.200 
+1250->1752['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -260.410 , -14537.400 
+1250->1753['110 in Molecule A: GLY']: 98.820 , -14081.600 
+1250->1754['199 in Molecule A: LYS']: -132.990 , -14566.400 
+1250->1755['100 in Molecule A: GLY']: -287.310 , -14478.200 
+1250->1756['81 in Molecule A: GLY']: -235.720 , -14443.600 
+1250->1757['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -65.630 , -14338.800 
+1250->1758['74 in Molecule A: LYS']: -74.630 , -14677.300 
+1250->1759['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -7.980 , -14248.000 
+1250->1760['26 in Molecule A: GLY']: 131.190 , -13903.900 
+1250->1761['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -274.990 , -14435.300 
+1250->1762['100 in Molecule A: GLY']: -298.810 , -14499.200 
+1250->1763['74 in Molecule A: LYS']: -245.660 , -14757.400 
+1250->1764['199 in Molecule A: LYS']: 23.750 , -14367.400 
+1250->1765['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 210.280 , -14053.000 
+1250->1766['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -171.100 , -14770.700 
+1250->1767['48 in Molecule A: TRP']: -55.810 , -14008.200 
+1250->1768['48 in Molecule A: TRP']: -249.480 , -14549.900 
+1250->1769['74 in Molecule A: LYS']: -164.760 , -14613.500 
+1250->1770['108 in Molecule A: GLY']: -221.480 , -14828.600 
+1250->1771['26 in Molecule A: GLY']: -278.930 , -14955.600 
+1250->1772['74 in Molecule A: LYS']: -61.320 , -14352.700 
+1250->1773['48 in Molecule A: TRP']: -243.980 , -14593.700 
+1250->1774['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -120.960 , -14931.700 
+1250->1775['100 in Molecule A: GLY']: 281.780 , -14040.200 
+1250->1776['112 in Molecule A: GLY']: -329.890 , -14617.700 
+1250->1777['81 in Molecule A: GLY']: -240.430 , -14572.300 
+1250->1778['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -186.890 , -14740.500 
+1250->1779['100 in Molecule A: GLY']: 249.770 , -13824.200 
+1250->1780['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -263.190 , -14427.800 
+1250->1781['81 in Molecule A: GLY']: 183.110 , -14268.400 
+1250->1782['199 in Molecule A: LYS']: -123.620 , -14584.500 
+1250->1783['81 in Molecule A: GLY']: -236.010 , -14900.600 
+1250->1784['100 in Molecule A: GLY']: -288.450 , -14386.500 
+1250->1785['74 in Molecule A: LYS']: 30.430 , -14258.100 
+1250->1786['74 in Molecule A: LYS']: -161.310 , -14410.600 
+1250->1787['110 in Molecule A: GLY']: 82.090 , -13957.800 
+1250->1788['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -174.550 , -14192.700 
+1250->1789['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -236.900 , -14604.800 
+1250->1790['108 in Molecule A: GLY']: -324.620 , -14422.700 
+1250->1791['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -11.450 , -14358.000 
+1250->1792['100 in Molecule A: GLY']: -309.150 , -14828.200 
+1250->1793['74 in Molecule A: LYS']: 11.280 , -14809.800 
+1250->1794['129 in Molecule A: GLY', '130 in Molecule A: MET']: -181.150 , -14596.100 
+1250->1795['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 221.900 , -13983.600 
+1250->1796['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 362.040 , -13827.900 
+1250->1797['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -142.620 , -14341.200 
+1250->1798['48 in Molecule A: TRP']: -239.160 , -14453.700 
+1250->1799['129 in Molecule A: GLY', '130 in Molecule A: MET']: -354.820 , -14702.600 
+1250->1800['74 in Molecule A: LYS']: -133.470 , -14699.300 
+1250->1801['100 in Molecule A: GLY']: -296.190 , -14380.300 
+1250->1802['79 in Molecule A: GLY']: -176.280 , -14543.200 
+1250->1803['129 in Molecule A: GLY', '130 in Molecule A: MET']: 211.380 , -14192.200 
+1250->1804['199 in Molecule A: LYS']: -150.420 , -14564.600 
+1250->1805['48 in Molecule A: TRP']: -237.110 , -14679.200 
+1250->1806['108 in Molecule A: GLY']: -243.670 , -14786.300 
+1250->1807['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -96.170 , -14288.700 
+1250->1808['129 in Molecule A: GLY']: 142.170 , -14041.700 
+1250->1809['110 in Molecule A: GLY']: -329.180 , -14541.200 
+1250->1810['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -170.850 , -14696.500 
+1250->1811['110 in Molecule A: GLY']: -271.590 , -14653.000 
+1250->1812['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -192.940 , -14678.000 
+1250->1813['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -161.580 , -14906.700 
+1250->1814['112 in Molecule A: GLY']: -329.800 , -14494.800 
+1250->1815['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -232.600 , -14740.000 
+1250->1816['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 144.020 , -14121.400 
+1250->1817['100 in Molecule A: GLY']: -230.560 , -14882.100 
+1250->1818['48 in Molecule A: TRP']: -37.770 , -14414.400 
+1250->1819['78 in Molecule A: LYS', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -160.600 , -14182.900 
+1250->1820['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 225.590 , -14042.500 
+1250->1821['108 in Molecule A: GLY']: -300.210 , -14465.800 
+1250->1822['199 in Molecule A: LYS']: -130.200 , -14501.800 
+1250->1823['199 in Molecule A: LYS']: -176.500 , -14287.100 
+1250->1824['26 in Molecule A: GLY']: -281.560 , -14856.300 
+1250->1825['100 in Molecule A: GLY']: -330.190 , -14390.900 
+1250->1826['108 in Molecule A: GLY']: -196.990 , -14606.800 
+1250->1827['108 in Molecule A: GLY']: -256.260 , -14616.300 
+1250->1828['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -103.300 , -14343.900 
+1250->1829['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -263.640 , -14562.600 
+1250->1830['74 in Molecule A: LYS']: -68.280 , -14351.100 
+1250->1831['100 in Molecule A: GLY']: -123.730 , -14737.500 
+1250->1832['26 in Molecule A: GLY']: -269.330 , -14948.800 
+1250->1833['74 in Molecule A: LYS']: -285.020 , -14201.900 
+1250->1834['112 in Molecule A: GLY']: -329.990 , -14446.200 
+1250->1835['48 in Molecule A: TRP']: -178.200 , -14646.900 
+1250->1836['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 101.820 , -14335.300 
+1250->1837['26 in Molecule A: GLY']: -278.910 , -14909.800 
+1250->1838['108 in Molecule A: GLY']: -248.770 , -14704.000 
+1250->1839['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 309.910 , -13630.200 
+1250->1840['129 in Molecule A: GLY']: -178.380 , -14565.100 
+1250->1841['108 in Molecule A: GLY']: -57.930 , -14025.000 
+1250->1842['74 in Molecule A: LYS']: -146.160 , -14340.200 
+1250->1843['100 in Molecule A: GLY']: -257.130 , -14660.700 
+1250->1844['26 in Molecule A: GLY']: 73.240 , -14308.700 
+1250->1845['108 in Molecule A: GLY']: -270.390 , -14851.900 
+1250->1846['26 in Molecule A: GLY']: -271.420 , -14999.800 
+1250->1847['130 in Molecule A: MET']: 83.860 , -13939.300 
+1250->1848['112 in Molecule A: GLY']: -280.210 , -14767.700 
+1250->1849['129 in Molecule A: GLY', '130 in Molecule A: MET']: -145.270 , -14570.800 
+1250->1850['130 in Molecule A: MET']: -150.980 , -14371.700 
+1250->1851['74 in Molecule A: LYS']: -194.760 , -14759.300 
+1250->1852['48 in Molecule A: TRP']: -223.910 , -14443.300 
+1250->1853['74 in Molecule A: LYS']: -93.110 , -14658.000 
+1250->1854['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -309.460 , -14693.100 
+1250->1855['199 in Molecule A: LYS']: 156.970 , -14378.100 
+1250->1856['78 in Molecule A: ARG']: -166.630 , -14612.700 
+1250->1857['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -250.290 , -14480.100 
+1250->1858['129 in Molecule A: GLY', '130 in Molecule A: MET']: -178.250 , -14619.900 
+1250->1859['130 in Molecule A: MET']: 110.800 , -14093.300 
+1250->1860['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -247.120 , -14509.300 
+1250->1861['199 in Molecule A: LYS']: -103.430 , -14734.400 
+1250->1862['26 in Molecule A: GLY']: -262.530 , -14964.300 
+1250->1863['108 in Molecule A: GLY']: 345.510 , -13706.400 
+1250->1864['130 in Molecule A: MET']: -155.250 , -14709.200 
+1250->1865['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -222.070 , -14519.600 
+1250->1866['108 in Molecule A: GLY']: -308.190 , -14404.300 
+1250->1867['199 in Molecule A: LYS']: 173.170 , -13626.500 
+1250->1868['80 in Molecule A: GLY']: 319.770 , -13954.100 
+1250->1869['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -180.110 , -14628.900 
+1250->1870['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -256.200 , -14311.300 
+1250->1871['112 in Molecule A: GLY']: 362.830 , -13858.000 
+1250->1872['26 in Molecule A: GLY']: -284.700 , -14383.100 
+1250->1873['26 in Molecule A: GLY']: 56.030 , -14326.600 
+1250->1874['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -162.130 , -14936.600 
+1250->1875['199 in Molecule A: LYS']: -249.160 , -14498.200 
+1250->1876['78 in Molecule A: ARG']: -109.790 , -14362.200 
+1250->1877['112 in Molecule A: GLY']: -329.890 , -14428.000 
+1250->1878['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 61.960 , -14466.900 
+1250->1879['100 in Molecule A: GLY']: -302.330 , -14404.300 
+1250->1880['108 in Molecule A: GLY']: -289.400 , -14460.800 
+1250->1881['112 in Molecule A: GLY']: -329.890 , -14618.100 
+1250->1882['48 in Molecule A: TRP']: 58.690 , -14215.500 
+1250->1883['26 in Molecule A: GLY']: 196.790 , -14156.300 
+1881->1884['129 in Molecule A: GLY', '130 in Molecule A: MET']: -169.680 , -14473.600 
+1250->1885['78 in Molecule A: LYS', '79 in Molecule A: GLY']: -120.550 , -14279.600 
+1881->1886['108 in Molecule A: GLY']: -270.550 , -14804.600 
+1250->1887['100 in Molecule A: GLY']: 99.520 , -14237.700 
+1881->1888['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 128.830 , -13870.900 
+1881->1889['129 in Molecule A: GLY', '130 in Molecule A: MET']: -207.060 , -14501.500 
+1881->1890['74 in Molecule A: LYS']: -121.690 , -14533.800 
+1881->1891['108 in Molecule A: GLY']: -287.720 , -14556.100 
+1881->1892['129 in Molecule A: GLY', '130 in Molecule A: MET']: -133.530 , -14330.700 
+1881->1893['48 in Molecule A: TRP']: 66.440 , -13861.500 
+1881->1894['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -175.420 , -14950.300 
+1881->1895['108 in Molecule A: GLY']: 53.250 , -14154.000 
+1881->1896['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -189.210 , -14746.600 
+1881->1897['110 in Molecule A: GLY']: -255.170 , -14629.800 
+1881->1898['129 in Molecule A: GLY', '130 in Molecule A: MET']: -196.390 , -14522.900 
+1881->1899['110 in Molecule A: GLY']: 212.100 , -13721.600 
+1881->1900['78 in Molecule A: ARG']: -153.800 , -14413.600 
+1881->1901['74 in Molecule A: LYS']: -256.570 , -14706.700 
+1881->1902['100 in Molecule A: GLY']: -330.980 , -14438.300 
+1881->1903['26 in Molecule A: GLY']: -292.110 , -14861.400 
+1881->1904['129 in Molecule A: GLY', '130 in Molecule A: MET']: -177.730 , -14413.500 
+1881->1905['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 171.940 , -14169.200 
+1881->1906['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -222.170 , -14613.500 
+1881->1907['112 in Molecule A: GLY']: 136.350 , -14212.200 
+1881->1908['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -265.180 , -14565.600 
+1881->1909['199 in Molecule A: LYS']: -159.220 , -14637.800 
+1881->1910['130 in Molecule A: MET']: -188.710 , -14612.000 
+1881->1911['112 in Molecule A: GLY']: 113.250 , -14213.100 
+1881->1912['130 in Molecule A: MET']: -170.820 , -14267.000 
+1881->1913['129 in Molecule A: GLY', '130 in Molecule A: MET']: -119.380 , -13905.900 
+1881->1914['108 in Molecule A: GLY']: -251.280 , -14601.100 
+1881->1915['129 in Molecule A: GLY']: -157.910 , -14284.200 
+1881->1916['48 in Molecule A: TRP']: -189.160 , -14574.800 
+1881->1917['48 in Molecule A: TRP']: -220.990 , -14578.900 
+1881->1918['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -77.860 , -14351.000 
+1881->1919['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -240.700 , -14541.300 
+1881->1920['26 in Molecule A: GLY']: 86.090 , -14139.100 
+1881->1921['81 in Molecule A: GLY']: -177.470 , -14354.400 
+1881->1922['100 in Molecule A: GLY']: 106.430 , -14384.700 
+1881->1923['112 in Molecule A: GLY']: -284.380 , -14865.500 
+1881->1924['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -258.190 , -14607.100 
+1881->1925['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -287.060 , -14675.900 
+1881->1926['26 in Molecule A: GLY']: 233.500 , -13954.100 
+1881->1927['199 in Molecule A: LYS']: -162.940 , -14498.000 
+1881->1928['129 in Molecule A: GLY']: 313.510 , -13837.500 
+1881->1929['26 in Molecule A: GLY']: -291.560 , -14485.400 
+1881->1930['100 in Molecule A: GLY']: 153.980 , -13794.100 
+1881->1931['81 in Molecule A: GLY']: -205.700 , -14985.300 
+1881->1932['129 in Molecule A: GLY', '130 in Molecule A: MET']: -191.860 , -14345.900 
+1881->1933['112 in Molecule A: GLY']: -253.070 , -14893.800 
+1881->1934['112 in Molecule A: GLY']: -282.460 , -14798.400 
+1881->1935['78 in Molecule A: ARG']: -228.030 , -14491.300 
+1881->1936['108 in Molecule A: GLY']: -238.140 , -14768.300 
+1881->1937['129 in Molecule A: GLY']: -108.130 , -14315.000 
+1881->1938['129 in Molecule A: GLY', '130 in Molecule A: MET']: -230.830 , -14543.600 
+1881->1939['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -230.260 , -14900.700 
+1881->1940['199 in Molecule A: LYS']: 253.680 , -13770.300 
+1881->1941['100 in Molecule A: GLY']: -262.540 , -14834.300 
+1881->1942['129 in Molecule A: GLY', '130 in Molecule A: MET']: -159.060 , -14487.400 
+1881->1943['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 26.200 , -14210.100 
+1881->1944['108 in Molecule A: GLY']: -247.350 , -14507.100 
+1881->1945['199 in Molecule A: LYS']: -5.160 , -14374.900 
+1881->1946['26 in Molecule A: GLY']: 112.540 , -14416.300 
+1881->1947['81 in Molecule A: GLY']: -242.610 , -14656.500 
+1881->1948['48 in Molecule A: TRP']: -228.770 , -14396.400 
+1881->1949['26 in Molecule A: GLY']: -289.160 , -14963.700 
+1881->1950['74 in Molecule A: LYS']: -243.660 , -14268.300 
+1881->1951['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 68.780 , -14094.500 
+1881->1952['199 in Molecule A: LYS']: -97.660 , -14527.900 
+1881->1953['130 in Molecule A: MET']: 106.540 , -14205.900 
+1881->1954['74 in Molecule A: LYS']: -202.010 , -14673.700 
+1881->1955['74 in Molecule A: LYS']: -178.630 , -14478.400 
+1881->1956['130 in Molecule A: MET']: -166.400 , -14642.800 
+1881->1957['129 in Molecule A: GLY', '130 in Molecule A: MET']: -188.950 , -14648.700 
+1881->1958['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -329.880 , -14422.300 
+1881->1959['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: 171.530 , -13761.100 
+1881->1960['100 in Molecule A: GLY']: -276.600 , -14635.300 
+1881->1961['130 in Molecule A: MET']: 42.410 , -14374.300 
+1881->1962['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -329.090 , -14412.400 
+1881->1963['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -155.090 , -14248.700 
+1881->1964['112 in Molecule A: GLY']: -262.500 , -14673.400 
+1881->1965['48 in Molecule A: TRP']: -120.760 , -14217.900 
+1881->1966['108 in Molecule A: GLY']: 140.800 , -13870.700 
+1881->1967['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -195.180 , -14602.000 
+1881->1968['26 in Molecule A: GLY']: -283.370 , -14749.300 
+1881->1969['48 in Molecule A: TRP']: -244.370 , -14559.200 
+1881->1970['108 in Molecule A: GLY']: -332.090 , -14469.600 
+1881->1971['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 60.860 , -14362.600 
+1881->1972['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -39.900 , -14182.400 
+1881->1973['110 in Molecule A: GLY']: 187.960 , -13661.100 
+1881->1974['112 in Molecule A: GLY']: -287.850 , -14467.000 
+1881->1975['112 in Molecule A: GLY']: -329.970 , -14279.700 
+1881->1976['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -88.850 , -14416.800 
+1881->1977['129 in Molecule A: GLY', '130 in Molecule A: MET']: -190.850 , -14462.500 
+1881->1978['48 in Molecule A: TRP']: 76.080 , -13944.400 
+1881->1979['48 in Molecule A: TRP']: 129.720 , -13889.100 
+1881->1980['112 in Molecule A: GLY']: -329.890 , -14518.500 
+1881->1981['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -127.060 , -14464.300 
+1881->1982['26 in Molecule A: GLY']: 259.770 , -13859.700 
+1881->1983['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -130.790 , -14379.700 
+1881->1984['129 in Molecule A: GLY']: -84.250 , -14612.300 
+1881->1985['112 in Molecule A: GLY']: -293.070 , -14851.100 
+1881->1986['199 in Molecule A: LYS']: -237.960 , -14492.900 
+1881->1987['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 196.710 , -13898.700 
+1881->1988['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 216.860 , -13798.000 
+1881->1989['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -165.770 , -14873.800 
+1881->1990['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -249.050 , -14740.300 
+1881->1991['112 in Molecule A: GLY']: -289.490 , -14660.100 
+1881->1992['74 in Molecule A: LYS']: -216.130 , -14703.600 
+1881->1993['100 in Molecule A: GLY']: 156.750 , -13908.200 
+1881->1994['129 in Molecule A: GLY', '130 in Molecule A: MET']: 217.300 , -14197.600 
+1881->1995['112 in Molecule A: GLY']: -294.310 , -14933.700 
+1881->1996['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -255.910 , -14512.400 
+1881->1997['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 145.900 , -13755.400 
+1881->1998['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -206.330 , -14845.800 
+1881->1999['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -122.670 , -14379.200 
+1881->2000['100 in Molecule A: GLY']: 208.740 , -14047.900 
+1881->2001['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -102.470 , -14541.400 
+1881->2002['112 in Molecule A: GLY']: 55.300 , -14194.400 
+1881->2003['199 in Molecule A: LYS']: -82.400 , -14570.900 
+1881->2004['110 in Molecule A: GLY']: -219.680 , -14472.300 
+1881->2005['78 in Molecule A: ARG']: -137.700 , -14400.700 
+1881->2006['74 in Molecule A: LYS']: 77.030 , -14099.300 
+1881->2007['112 in Molecule A: GLY']: -283.490 , -14635.200 
+1881->2008['26 in Molecule A: GLY']: -284.090 , -14824.500 
+1881->2009['81 in Molecule A: GLY']: 282.410 , -14013.100 
+1881->2010['26 in Molecule A: GLY']: -300.490 , -14934.800 
+1881->2011['129 in Molecule A: GLY', '130 in Molecule A: MET']: -126.770 , -14568.900 
+1881->2012['108 in Molecule A: GLY']: 305.510 , -13729.200 
+1881->2013['81 in Molecule A: GLY']: -244.430 , -14872.000 
+1881->2014['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -157.490 , -14437.500 
+1881->2015['100 in Molecule A: GLY']: -215.500 , -14758.900 
+1881->2016['26 in Molecule A: GLY']: -289.310 , -14953.300 
+1881->2017['112 in Molecule A: GLY']: 305.130 , -14066.000 
+1881->2018['129 in Molecule A: GLY']: -146.700 , -14332.800 
+1881->2019['129 in Molecule A: GLY', '130 in Molecule A: MET']: 154.050 , -13848.200 
+1881->2020['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -185.300 , -14405.100 
+1881->2021['78 in Molecule A: ARG']: 114.310 , -13861.500 
+1881->2022['199 in Molecule A: LYS']: -353.290 , -14623.500 
+1881->2023['130 in Molecule A: MET']: -99.460 , -14284.200 
+1881->2024['130 in Molecule A: MET']: -236.840 , -14486.900 
+1881->2025['74 in Molecule A: LYS']: -185.850 , -14629.000 
+1881->2026['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 113.670 , -13746.600 
+1881->2027['74 in Molecule A: LYS']: -133.190 , -14347.100 
+1881->2028['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -171.210 , -14718.100 
+1881->2029['74 in Molecule A: LYS']: -172.630 , -14631.600 
+1881->2030['81 in Molecule A: GLY']: -228.120 , -14747.300 
+1881->2031['112 in Molecule A: GLY']: 20.450 , -14009.000 
+1881->2032['112 in Molecule A: GLY']: -295.430 , -14918.600 
+1881->2033['48 in Molecule A: TRP']: 408.620 , -13516.200 
+1881->2034['78 in Molecule A: ARG']: -207.070 , -14474.600 
+1881->2035['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -240.350 , -14493.100 
+1881->2036['199 in Molecule A: LYS']: -200.530 , -14425.100 
+1881->2037['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 158.690 , -13955.000 
+1881->2038['129 in Molecule A: GLY']: -155.380 , -14308.800 
+1881->2039['199 in Molecule A: LYS']: 18.030 , -13966.000 
+1881->2040['129 in Molecule A: GLY', '130 in Molecule A: MET']: -174.960 , -14380.500 
+1881->2041['130 in Molecule A: MET']: -173.420 , -14655.800 
+1881->2042['112 in Molecule A: GLY']: -329.890 , -14530.500 
+1881->2043['199 in Molecule A: LYS']: 194.060 , -13906.800 
+1881->2044['110 in Molecule A: GLY']: -313.920 , -14576.200 
+1881->2045['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -2.360 , -13999.600 
+1881->2046['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -218.600 , -14671.400 
+1881->2047['79 in Molecule A: GLY']: -178.110 , -14744.700 
+1881->2048['112 in Molecule A: GLY']: -96.140 , -14554.200 
+1881->2049['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -184.140 , -14342.100 
+1881->2050['100 in Molecule A: GLY']: -224.570 , -14666.000 
+1881->2051['129 in Molecule A: GLY', '130 in Molecule A: MET']: -409.450 , -14954.700 
+1881->2052['81 in Molecule A: GLY']: -205.080 , -14895.400 
+1881->2053['81 in Molecule A: GLY']: -255.940 , -14742.500 
+2051->2054['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -308.450 , -14977.700 
+1881->2055['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 274.120 , -14073.400 
+2051->2056['48 in Molecule A: TRP']: -335.180 , -11823.800 
+2051->2057['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -374.360 , -14929.600 
+2051->2058['129 in Molecule A: GLY', '130 in Molecule A: MET']: -368.690 , -15123.200 
+1881->2059['100 in Molecule A: GLY']: 21.250 , -14274.400 
+2051->2060['81 in Molecule A: GLY']: 141.220 , -14096.500 
+2051->2061['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -408.740 , -15116.100 
+2051->2062['108 in Molecule A: GLY']: -98.500 , -14329.500 
+2051->2063['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -421.190 , -15184.200 
+2051->2064['26 in Molecule A: GLY']: -291.480 , -14957.500 
+2051->2065['81 in Molecule A: GLY']: -479.450 , -14858.800 
+2051->2066['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 274.040 , -14203.400 
+2051->2067['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -263.030 , -14951.100 
+2051->2068['199 in Molecule A: LYS']: -355.670 , -14639.800 
+2051->2069['130 in Molecule A: MET']: -1.340 , -14702.700 
+2051->2070['108 in Molecule A: GLY']: -391.470 , -14883.300 
+2051->2071['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -430.130 , -14904.800 
+2051->2072['129 in Molecule A: GLY']: 69.400 , -14402.100 
+2051->2073['130 in Molecule A: MET']: -495.270 , -15132.100 
+2070->2074['80 in Molecule A: GLY']: -391.160 , -15084.000 
+2051->2075['129 in Molecule A: GLY']: -38.290 , -14457.300 
+2070->2076['26 in Molecule A: GLY']: -334.680 , -14830.300 
+2070->2077['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -378.850 , -14956.100 
+2070->2078['112 in Molecule A: GLY']: -353.930 , -14998.000 
+2070->2079['80 in Molecule A: GLY']: -382.950 , -14973.700 
+2070->2080['78 in Molecule A: ARG']: 303.750 , -14460.900 
+2070->2081['79 in Molecule A: GLY']: -343.050 , -14916.500 
+2070->2082['129 in Molecule A: GLY', '130 in Molecule A: MET']: 253.700 , -13959.500 
+2070->2083['199 in Molecule A: LYS']: -315.450 , -14970.700 
+2070->2084['78 in Molecule A: ARG']: 205.670 , -14149.500 
+2070->2085['26 in Molecule A: GLY']: -394.820 , -14547.100 
+2070->2086['80 in Molecule A: GLY']: -386.450 , -14783.300 
+2070->2087['48 in Molecule A: TRP']: -278.770 , -14514.100 
+2070->2088['129 in Molecule A: GLY', '130 in Molecule A: MET']: 170.920 , -14331.000 
+2070->2089['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -404.710 , -15229.600 
+2070->2090['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 216.230 , -14244.900 
+2070->2091['26 in Molecule A: GLY']: -394.350 , -14804.200 
+2070->2092['112 in Molecule A: GLY']: -375.550 , -14734.600 
+2070->2093['100 in Molecule A: GLY']: 110.510 , -13892.000 
+2070->2094['48 in Molecule A: TRP']: -363.370 , -14545.500 
+2070->2095['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -305.730 , -15169.700 
+2070->2096['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 111.220 , -14044.400 
+2070->2097['26 in Molecule A: GLY']: -363.380 , -14688.800 
+2070->2098['199 in Molecule A: LYS']: -366.070 , -15148.200 
+2070->2099['129 in Molecule A: GLY', '130 in Molecule A: MET']: -376.920 , -14658.500 
+2070->2100['112 in Molecule A: GLY']: -327.930 , -14919.100 
+2070->2101['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 407.450 , -13654.100 
+2070->2102['199 in Molecule A: LYS']: 77.860 , -13747.500 
+2070->2103['110 in Molecule A: GLY']: -342.560 , -14837.700 
+2070->2104['74 in Molecule A: LYS']: -275.240 , -15019.400 
+2070->2105['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -438.210 , -14641.400 
+2070->2106['100 in Molecule A: GLY']: -435.390 , -14670.100 
+2070->2107['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 68.320 , -14006.400 
+2070->2108['110 in Molecule A: GLY']: 160.930 , -14086.900 
+2070->2109['108 in Molecule A: GLY']: -369.250 , -14767.300 
+2070->2110['81 in Molecule A: GLY']: -468.870 , -14759.200 
+2070->2111['74 in Molecule A: LYS']: 47.760 , -14395.700 
+2070->2112['80 in Molecule A: GLY']: -394.110 , -14823.600 
+2070->2113['129 in Molecule A: GLY', '130 in Molecule A: MET']: -358.190 , -15039.600 
+2070->2114['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -328.930 , -14779.800 
+2070->2115['81 in Molecule A: GLY']: -51.590 , -14193.400 
+2070->2116['78 in Molecule A: ARG']: -220.340 , -14908.900 
+2070->2117['112 in Molecule A: GLY']: 253.910 , -14026.900 
+2070->2118['112 in Molecule A: GLY']: -336.580 , -15081.200 
+2070->2119['108 in Molecule A: GLY']: -382.930 , -14723.900 
+2070->2120['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -363.200 , -15102.800 
+2070->2121['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -61.120 , -14352.000 
+2070->2122['199 in Molecule A: LYS']: -399.510 , -15207.300 
+2070->2123['108 in Molecule A: GLY']: -375.250 , -14712.600 
+2070->2124['26 in Molecule A: GLY']: 322.980 , -13902.300 
+2070->2125['48 in Molecule A: TRP']: -351.010 , -14465.100 
+2070->2126['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -363.830 , -15062.500 
+2070->2127['110 in Molecule A: GLY']: 267.100 , -13921.600 
+2070->2128['48 in Molecule A: TRP']: -386.280 , -14287.700 
+2070->2129['112 in Molecule A: GLY']: -365.900 , -14926.300 
+2070->2130['26 in Molecule A: GLY']: 359.660 , -13661.600 
+2070->2131['108 in Molecule A: GLY']: -347.910 , -14690.600 
+2070->2132['129 in Molecule A: GLY', '130 in Molecule A: MET']: -329.260 , -15080.900 
+2070->2133['130 in Molecule A: MET']: -319.710 , -15293.900 
+2070->2134['74 in Molecule A: LYS']: 164.890 , -14098.300 
+2070->2135['129 in Molecule A: GLY', '130 in Molecule A: MET']: 140.340 , -14264.200 
+2070->2136['129 in Molecule A: GLY']: -406.100 , -14814.800 
+2070->2137['74 in Molecule A: LYS']: -286.640 , -14913.000 
+2070->2138['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 124.430 , -14248.400 
+2070->2139['26 in Molecule A: GLY']: -332.060 , -14858.600 
+2136->2140['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -361.240 , -15109.900 
+2136->2141['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -349.480 , -14886.300 
+2136->2142['130 in Molecule A: MET']: -449.300 , -14755.300 
+2070->2143['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 31.230 , -14547.800 
+2136->2144['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 216.810 , -14266.100 
+2136->2145['78 in Molecule A: ARG']: -393.040 , -14913.900 
+2136->2146['110 in Molecule A: GLY']: -45.410 , -14598.700 
+2136->2147['129 in Molecule A: GLY', '130 in Molecule A: MET']: -413.640 , -15048.700 
+2136->2148['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -324.980 , -14884.700 
+2136->2149['112 in Molecule A: GLY']: -318.150 , -14946.000 
+2136->2150['80 in Molecule A: GLY']: -305.750 , -14993.400 
+2136->2151['112 in Molecule A: GLY']: -378.620 , -14929.900 
+2136->2152['129 in Molecule A: GLY']: 231.400 , -14205.000 
+2136->2153['81 in Molecule A: GLY']: 30.880 , -14228.100 
+2136->2154['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -373.270 , -14952.100 
+2136->2155['48 in Molecule A: TRP']: -350.490 , -14457.700 
+2136->2156['108 in Molecule A: GLY']: 253.290 , -14050.000 
+2136->2157['74 in Molecule A: LYS']: -186.280 , -14949.300 
+2136->2158['129 in Molecule A: GLY', '130 in Molecule A: MET']: -433.820 , -15067.400 
+2136->2159['129 in Molecule A: GLY', '130 in Molecule A: MET']: 150.660 , -14412.900 
+2136->2160['48 in Molecule A: TRP']: -338.650 , -14422.000 
+2136->2161['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -290.740 , -14825.700 
+2136->2162['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 215.980 , -14165.000 
+2136->2163['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -334.320 , -14847.800 
+2136->2164['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -90.830 , -14560.100 
+2136->2165['48 in Molecule A: TRP']: -337.340 , -11853.100 
+2136->2166['26 in Molecule A: GLY']: -430.330 , -14870.400 
+2136->2167['100 in Molecule A: GLY']: -119.830 , -14769.600 
+2136->2168['48 in Molecule A: TRP']: -346.210 , -14410.400 
+2136->2169['199 in Molecule A: LYS']: -226.630 , -14781.500 
+2136->2170['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -276.750 , -14737.600 
+2136->2171['199 in Molecule A: LYS']: 230.650 , -14021.000 
+2136->2172['199 in Molecule A: LYS']: -375.910 , -14764.800 
+2136->2173['100 in Molecule A: GLY']: -278.660 , -14781.900 
+2136->2174['110 in Molecule A: GLY']: 108.250 , -14461.800 
+2136->2175['112 in Molecule A: GLY']: -348.450 , -15072.800 
+2136->2176['199 in Molecule A: LYS']: -184.650 , -14899.200 
+2136->2177['48 in Molecule A: TRP']: -314.360 , -12091.800 
+2136->2178['100 in Molecule A: GLY']: -429.230 , -14904.900 
+2136->2179['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 76.890 , -14123.400 
+2136->2180['108 in Molecule A: GLY']: -423.530 , -14911.400 
+2136->2181['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -410.390 , -14848.700 
+2136->2182['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 244.410 , -14068.700 
+2136->2183['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -413.980 , -14876.100 
+2136->2184['112 in Molecule A: GLY']: 162.440 , -14191.100 
+2136->2185['26 in Molecule A: GLY']: -435.530 , -14934.100 
+2136->2186['129 in Molecule A: GLY', '130 in Molecule A: MET']: 146.450 , -14420.000 
+2136->2187['100 in Molecule A: GLY']: -350.770 , -14676.900 
+2136->2188['48 in Molecule A: TRP']: -306.940 , -14538.000 
+2136->2189['199 in Molecule A: LYS']: -258.880 , -14723.200 
+2136->2190['78 in Molecule A: ARG']: 112.160 , -14281.900 
+2136->2191['48 in Molecule A: TRP']: -307.530 , -14456.000 
+2136->2192['129 in Molecule A: GLY']: 151.690 , -14202.900 
+2136->2193['100 in Molecule A: GLY']: -263.370 , -14883.800 
+2136->2194['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -348.060 , -14842.400 
+2136->2195['100 in Molecule A: GLY']: -363.750 , -14634.400 
+2136->2196['108 in Molecule A: GLY']: -408.010 , -14886.300 
+2136->2197['48 in Molecule A: TRP']: -51.400 , -14227.600 
+2136->2198['79 in Molecule A: GLY', '80 in Molecule A: GLY']: 218.520 , -14464.800 
+2136->2199['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -273.030 , -14907.800 
+2136->2200['26 in Molecule A: GLY']: -343.290 , -14875.100 
+2136->2201['130 in Molecule A: MET']: -372.120 , -15068.100 
+2136->2202['199 in Molecule A: LYS']: -334.870 , -15025.000 
+2136->2203['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 295.910 , -14050.700 
+2136->2204['112 in Molecule A: GLY']: 339.350 , -13912.100 
+2136->2205['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -274.980 , -14949.800 
+2136->2206['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -320.810 , -15014.200 
+2136->2207['74 in Molecule A: LYS']: 260.600 , -13951.200 
+2136->2208['108 in Molecule A: GLY']: -423.400 , -14930.100 
+2136->2209['48 in Molecule A: TRP']: -268.970 , -11880.100 
+2136->2210['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -343.090 , -15028.600 
+2136->2211['112 in Molecule A: GLY']: 436.170 , -13921.300 
+2136->2212['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -84.690 , -14530.800 
+2136->2213['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -313.600 , -14879.600 
+2136->2214['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -333.090 , -15068.000 
+2136->2215['112 in Molecule A: GLY']: -335.220 , -14769.900 
+2136->2216['110 in Molecule A: GLY']: 13.920 , -14427.100 
+2136->2217['26 in Molecule A: GLY']: -416.450 , -14443.100 
+2136->2218['199 in Molecule A: LYS']: -261.440 , -14733.600 
+2136->2219['26 in Molecule A: GLY']: 202.070 , -14195.300 
+2136->2220['100 in Molecule A: GLY']: -405.360 , -14861.200 
+2136->2221['26 in Molecule A: GLY']: -406.820 , -14731.400 
+2136->2222['199 in Molecule A: LYS']: 114.220 , -14089.300 
+2136->2223['78 in Molecule A: ARG']: -220.630 , -14752.200 
+2136->2224['199 in Molecule A: LYS']: -314.860 , -14925.000 
+2136->2225['26 in Molecule A: GLY']: 155.090 , -14119.600 
+2136->2226['129 in Molecule A: GLY', '130 in Molecule A: MET']: -407.400 , -15239.800 
+2136->2227['130 in Molecule A: MET']: 154.790 , -14351.300 
+2136->2228['130 in Molecule A: MET']: -305.540 , -14794.600 
+2136->2229['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -357.380 , -15044.900 
+2136->2230['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -277.510 , -15051.200 
+2136->2231['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -435.390 , -14759.300 
+2136->2232['26 in Molecule A: GLY']: 57.820 , -13983.800 
+2136->2233['112 in Molecule A: GLY']: 294.350 , -13921.400 
+2136->2234['199 in Molecule A: LYS']: -270.000 , -14771.800 
+2136->2235['26 in Molecule A: GLY']: -344.290 , -14823.500 
+2136->2236['78 in Molecule A: ARG']: -377.210 , -14594.000 
+2136->2237['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 64.410 , -14461.500 
+2136->2238['78 in Molecule A: ARG']: -377.400 , -14594.800 
+2136->2239['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -358.730 , -14944.200 
+2136->2240['129 in Molecule A: GLY', '130 in Molecule A: MET']: -430.180 , -14948.300 
+2136->2241['48 in Molecule A: TRP']: 53.120 , -11308.300 
+2136->2242['78 in Molecule A: ARG']: -270.920 , -14621.600 
+2136->2243['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 356.670 , -13797.700 
+2136->2244['199 in Molecule A: LYS']: -340.590 , -14950.400 
+2136->2245['48 in Molecule A: TRP']: -244.090 , -14463.400 
+2136->2246['81 in Molecule A: GLY']: -427.030 , -14901.200 
+2136->2247['129 in Molecule A: GLY', '130 in Molecule A: MET']: -342.030 , -14892.800 
+2136->2248['199 in Molecule A: LYS']: -75.530 , -14192.800 
+2136->2249['108 in Molecule A: GLY']: -396.100 , -15105.000 
+2136->2250['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -310.060 , -14876.200 
+2136->2251['199 in Molecule A: LYS']: 311.980 , -13924.100 
+2136->2252['100 in Molecule A: GLY']: -38.910 , -14505.200 
+2136->2253['26 in Molecule A: GLY']: -393.860 , -14758.600 
+2136->2254['199 in Molecule A: LYS']: -277.580 , -14690.900 
+2136->2255['130 in Molecule A: MET']: 107.160 , -14292.900 
+2136->2256['100 in Molecule A: GLY']: -252.730 , -14600.200 
+2136->2257['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -278.840 , -14877.600 
+2136->2258['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 287.860 , -14196.600 
+2136->2259['199 in Molecule A: LYS']: -238.620 , -14968.200 
+2136->2260['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -409.150 , -14839.800 
+2136->2261['129 in Molecule A: GLY']: 208.220 , -13990.700 
+2136->2262['74 in Molecule A: LYS']: -247.990 , -14807.100 
+2136->2263['26 in Molecule A: GLY']: -341.940 , -15024.600 
+2136->2264['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 296.950 , -14046.600 
+2136->2265['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -419.170 , -14851.000 
+2136->2266['199 in Molecule A: LYS']: -221.930 , -14687.100 
+2136->2267['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -403.380 , -14732.100 
+2136->2268['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -251.840 , -14903.300 
+2136->2269['112 in Molecule A: GLY']: 261.550 , -14067.200 
+2136->2270['129 in Molecule A: GLY', '130 in Molecule A: MET']: 89.910 , -14538.800 
+2136->2271['26 in Molecule A: GLY']: -322.430 , -14989.900 
+2136->2272['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -247.870 , -14709.000 
+2136->2273['80 in Molecule A: GLY']: 302.180 , -14200.000 
+2136->2274['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -217.970 , -14781.500 
+2136->2275['112 in Molecule A: GLY']: 377.390 , -14192.500 
+2136->2276['100 in Molecule A: GLY']: -370.970 , -14800.100 
+2136->2277['130 in Molecule A: MET']: -355.650 , -14931.800 
+2136->2278['78 in Molecule A: ARG']: -211.490 , -14547.900 
+2136->2279['74 in Molecule A: LYS']: -184.850 , -15119.900 
+2136->2280['74 in Molecule A: LYS']: 201.920 , -13980.600 
+2136->2281['129 in Molecule A: GLY']: -403.320 , -14940.600 
+2136->2282['100 in Molecule A: GLY']: 383.260 , -13950.500 
+2136->2283['26 in Molecule A: GLY']: -348.520 , -14817.000 
+2136->2284['130 in Molecule A: MET']: -335.340 , -14977.700 
+2136->2285['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 412.220 , -13797.200 
+2136->2286['81 in Molecule A: GLY']: -420.960 , -14965.200 
+2136->2287['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -347.680 , -15066.600 
+2136->2288['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -342.240 , -14743.500 
+2136->2289['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -335.560 , -15031.800 
+2136->2290['112 in Molecule A: GLY']: -415.690 , -14444.500 
+2136->2291['79 in Molecule A: GLY', '80 in Molecule A: GLY']: 172.820 , -14617.700 
+2136->2292['74 in Molecule A: LYS']: 89.410 , -14254.300 
+2136->2293['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -232.130 , -14636.100 
+2136->2294['100 in Molecule A: GLY']: 173.740 , -14088.600 
+2136->2295['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -385.080 , -14878.500 
+2136->2296['129 in Molecule A: GLY', '130 in Molecule A: MET']: -394.000 , -15033.300 
+2136->2297['26 in Molecule A: GLY']: -403.770 , -14667.600 
+2136->2298['129 in Molecule A: GLY', '130 in Molecule A: MET']: 270.900 , -14204.700 
+2136->2299['74 in Molecule A: LYS']: -138.870 , -14665.000 
+2136->2300['129 in Molecule A: GLY']: 88.390 , -14222.100 
+2136->2301['199 in Molecule A: LYS']: -227.180 , -14935.700 
+2136->2302['129 in Molecule A: GLY', '130 in Molecule A: TRP']: -396.590 , -15145.300 
+2136->2303['199 in Molecule A: LYS']: -185.930 , -14696.400 
+2136->2304['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -359.270 , -14820.000 
+2136->2305['48 in Molecule A: TRP']: -70.530 , -14161.400 
+2136->2306['129 in Molecule A: GLY', '130 in Molecule A: MET']: -408.720 , -15061.400 
+2136->2307['110 in Molecule A: GLY']: 86.160 , -14381.700 
+2136->2308['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -296.490 , -14827.000 
+2136->2309['199 in Molecule A: LYS']: -144.160 , -14523.900 
+2136->2310['100 in Molecule A: GLY']: -362.860 , -14927.800 
+2136->2311['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -296.820 , -14939.200 
+2136->2312['108 in Molecule A: GLY']: -404.630 , -14918.800 
+2136->2313['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -323.470 , -15053.600 
+2136->2314['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 363.980 , -13805.100 
+2136->2315['110 in Molecule A: GLY']: -70.880 , -14540.600 
+2312->2316['199 in Molecule A: LYS']: -335.060 , -14824.500 
+2312->2317['74 in Molecule A: LYS']: -42.050 , -14565.700 
+2312->2318['110 in Molecule A: GLY']: -370.120 , -14969.600 
+2136->2319['130 in Molecule A: MET']: 376.330 , -14035.300 
+2312->2320['199 in Molecule A: LYS']: -296.480 , -14795.900 
+2312->2321['48 in Molecule A: TRP']: 241.020 , -13871.600 
+2312->2322['108 in Molecule A: GLY']: -355.330 , -15187.900 
+2312->2323['108 in Molecule A: GLY']: -362.290 , -15124.400 
+2312->2324['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 176.300 , -14432.100 
+2312->2325['112 in Molecule A: GLY']: -368.380 , -14929.600 
+2312->2326['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -349.960 , -15133.400 
+2312->2327['129 in Molecule A: GLY']: -317.830 , -14974.800 
+2312->2328['108 in Molecule A: GLY']: -367.340 , -15012.100 
+2312->2329['129 in Molecule A: GLY']: 190.680 , -14175.900 
+2312->2330['112 in Molecule A: GLY']: -374.260 , -14960.900 
+2312->2331['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 154.960 , -14520.600 
+2312->2332['112 in Molecule A: GLY']: -353.250 , -14981.300 
+2312->2333['129 in Molecule A: GLY', '130 in Molecule A: MET']: 96.810 , -14460.500 
+2312->2334['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -378.280 , -14925.500 
+2312->2335['199 in Molecule A: LYS']: -180.970 , -14914.500 
+2312->2336['108 in Molecule A: GLY']: -394.790 , -14870.700 
+2312->2337['199 in Molecule A: LYS']: -311.560 , -14743.400 
+2312->2338['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 178.800 , -14234.200 
+2312->2339['129 in Molecule A: GLY', '130 in Molecule A: MET']: -357.880 , -15102.300 
+2312->2340['129 in Molecule A: GLY', '130 in Molecule A: MET']: -349.090 , -15468.800 
+2312->2341['199 in Molecule A: LYS']: -250.330 , -15152.300 
+2312->2342['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -255.270 , -14835.300 
+2312->2343['100 in Molecule A: GLY']: -419.290 , -14724.500 
+2312->2344['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 285.390 , -14314.700 
+2312->2345['26 in Molecule A: GLY']: -396.400 , -14728.700 
+2312->2346['108 in Molecule A: GLY']: -409.270 , -15073.100 
+2312->2347['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 14.240 , -14436.500 
+2312->2348['199 in Molecule A: LYS']: 243.790 , -14226.900 
+2312->2349['108 in Molecule A: GLY']: -393.350 , -15100.800 
+2312->2350['74 in Molecule A: LYS']: -233.290 , -14661.600 
+2312->2351['129 in Molecule A: GLY', '130 in Molecule A: MET']: -361.330 , -14922.100 
+2312->2352['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -263.100 , -14977.600 
+2312->2353['81 in Molecule A: GLY']: 222.750 , -14456.800 
+2312->2354['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 105.460 , -14263.000 
+2312->2355['48 in Molecule A: TRP']: -309.040 , -14712.400 
+2312->2356['112 in Molecule A: GLY']: -363.650 , -14880.100 
+2312->2357['26 in Molecule A: GLY']: 38.700 , -14391.700 
+2312->2358['74 in Molecule A: LYS']: -229.030 , -14875.900 
+2312->2359['26 in Molecule A: GLY']: -383.500 , -15079.300 
+2312->2360['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: -386.440 , -14909.100 
+2312->2361['199 in Molecule A: LYS']: 183.210 , -14280.200 
+2312->2362['199 in Molecule A: LYS']: 95.170 , -14500.400 
+2312->2363['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -363.330 , -14986.600 
+2312->2364['199 in Molecule A: LYS']: -253.430 , -15073.600 
+2312->2365['112 in Molecule A: GLY']: -332.630 , -14906.500 
+2312->2366['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -329.400 , -15156.100 
+2312->2367['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -492.620 , -14989.300 
+2312->2368['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -341.370 , -15164.300 
+2312->2369['78 in Molecule A: ARG']: -333.610 , -14826.800 
+2312->2370['199 in Molecule A: LYS']: 123.440 , -14265.200 
+2312->2371['112 in Molecule A: GLY']: 246.610 , -14174.800 
+2312->2372['100 in Molecule A: GLY']: -402.040 , -14934.900 
+2312->2373['199 in Molecule A: LYS']: -273.340 , -14887.600 
+2312->2374['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -391.670 , -15154.600 
+2312->2375['100 in Molecule A: GLY']: -397.750 , -14910.600 
+2312->2376['112 in Molecule A: GLY']: -359.140 , -14841.200 
+2312->2377['79 in Molecule A: GLY', '80 in Molecule A: GLY']: 158.280 , -14612.300 
+2312->2378['129 in Molecule A: GLY', '130 in Molecule A: MET']: 90.320 , -14349.200 
+2312->2379['199 in Molecule A: LYS']: -268.770 , -15209.400 
+2312->2380['100 in Molecule A: GLY']: -412.320 , -14647.700 
+2312->2381['129 in Molecule A: GLY', '130 in Molecule A: MET']: 155.920 , -14433.400 
+2312->2382['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -369.940 , -14685.100 
+2312->2383['129 in Molecule A: GLY', '130 in Molecule A: MET']: -356.420 , -14998.900 
+2312->2384['129 in Molecule A: GLY', '130 in Molecule A: MET']: -114.390 , -14747.700 
+2312->2385['108 in Molecule A: GLY']: -371.910 , -14874.900 
+2312->2386['81 in Molecule A: GLY']: -399.620 , -14964.100 
+2312->2387['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 187.340 , -14086.100 
+2312->2388['100 in Molecule A: GLY']: -409.400 , -14913.300 
+2312->2389['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -347.820 , -14926.200 
+2312->2390['26 in Molecule A: GLY']: -267.920 , -14950.500 
+2312->2391['130 in Molecule A: MET']: -411.230 , -15041.400 
+2312->2392['26 in Molecule A: GLY']: 366.860 , -14121.400 
+2312->2393['112 in Molecule A: GLY']: 152.830 , -14468.700 
+2312->2394['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -260.430 , -14732.400 
+2312->2395['26 in Molecule A: GLY']: -380.290 , -14957.600 
+2312->2396['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 52.730 , -14450.400 
+2312->2397['110 in Molecule A: GLY']: -376.060 , -15080.600 
+2312->2398['199 in Molecule A: LYS']: -198.510 , -14683.400 
+2312->2399['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -279.760 , -14914.300 
+2312->2400['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 237.310 , -14254.000 
+2312->2401['74 in Molecule A: LYS']: -161.040 , -14496.800 
+2312->2402['81 in Molecule A: GLY']: -386.430 , -14779.400 
+2312->2403['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 277.200 , -14382.000 
+2312->2404['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -361.900 , -15062.000 
+2312->2405['199 in Molecule A: LYS']: 165.430 , -14289.500 
+2312->2406['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -332.300 , -14975.000 
+2312->2407['129 in Molecule A: GLY', '130 in Molecule A: MET']: -330.030 , -14817.400 
+2312->2408['81 in Molecule A: GLY']: -402.600 , -14986.700 
+2312->2409['129 in Molecule A: GLY', '130 in Molecule A: MET']: -18.840 , -14394.200 
+2312->2410['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -323.680 , -15105.400 
+2312->2411['78 in Molecule A: ARG']: 513.940 , -14234.500 
+2312->2412['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -415.530 , -14900.600 
+2312->2413['81 in Molecule A: GLY']: -380.990 , -14927.200 
+2312->2414['26 in Molecule A: GLY']: -352.490 , -14987.800 
+2312->2415['81 in Molecule A: GLY']: 41.240 , -14413.600 
+2312->2416['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -327.610 , -14995.900 
+2312->2417['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 406.070 , -14047.000 
+2312->2418['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -376.630 , -14955.200 
+2312->2419['79 in Molecule A: GLY']: -255.290 , -15070.300 
+2312->2420['100 in Molecule A: GLY']: 302.560 , -13982.800 
+2312->2421['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -380.650 , -14659.300 
+2312->2422['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -319.870 , -14969.700 
+2312->2423['112 in Molecule A: GLY']: 142.110 , -14427.900 
+2312->2424['100 in Molecule A: GLY']: -357.750 , -14847.100 
+2312->2425['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -323.730 , -15114.600 
+2312->2426['112 in Molecule A: GLY']: 120.700 , -14318.700 
+2312->2427['130 in Molecule A: MET']: -364.790 , -14975.400 
+2312->2428['48 in Molecule A: TRP']: -245.540 , -11880.700 
+2312->2429['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -299.060 , -15106.100 
+2312->2430['129 in Molecule A: GLY', '130 in Molecule A: MET']: 332.460 , -14312.100 
+2312->2431['78 in Molecule A: ARG']: 394.110 , -13829.400 
+2312->2432['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -326.620 , -14748.700 
+2312->2433['74 in Molecule A: LYS']: -170.400 , -14809.200 
+2312->2434['100 in Molecule A: GLY']: -421.890 , -14969.600 
+2312->2435['112 in Molecule A: GLY']: -391.360 , -14927.300 
+2312->2436['26 in Molecule A: GLY']: 195.760 , -14187.500 
+2312->2437['199 in Molecule A: LYS']: -148.850 , -14684.500 
+2312->2438['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 234.510 , -14382.500 
+2312->2439['129 in Molecule A: GLY', '130 in Molecule A: MET']: -344.280 , -14746.100 
+2312->2440['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -396.040 , -15106.200 
+2312->2441['48 in Molecule A: TRP']: -251.540 , -14925.300 
+2312->2442['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 199.020 , -14431.600 
+2312->2443['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -313.970 , -15085.300 
+2312->2444['129 in Molecule A: GLY']: 22.700 , -14261.100 
+2312->2445['129 in Molecule A: GLY', '130 in Molecule A: MET']: -371.540 , -15042.000 
+2312->2446['26 in Molecule A: GLY']: -360.730 , -15046.400 
+2312->2447['48 in Molecule A: TRP']: 49.510 , -14106.500 
+2312->2448['199 in Molecule A: LYS']: -220.160 , -14744.300 
+2312->2449['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -296.850 , -14979.800 
+2312->2450['74 in Molecule A: LYS']: 311.410 , -14085.000 
+2312->2451['74 in Molecule A: LYS']: -146.690 , -14488.800 
+2312->2452['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 241.600 , -14324.500 
+2312->2453['130 in Molecule A: TRP']: -387.820 , -15184.900 
+2312->2454['110 in Molecule A: GLY']: -368.340 , -15016.000 
+2312->2455['130 in Molecule A: MET']: -323.750 , -15130.300 
+2312->2456['129 in Molecule A: GLY', '130 in Molecule A: MET']: -343.100 , -15093.400 
+2312->2457['108 in Molecule A: GLY']: 218.860 , -14161.100 
+2312->2458['108 in Molecule A: GLY']: 14.670 , -14586.400 
+2312->2459['130 in Molecule A: MET']: -469.650 , -15078.600 
+2312->2460['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -249.550 , -14700.100 
+2312->2461['112 in Molecule A: GLY']: -413.770 , -14766.500 
+2312->2462['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 484.860 , -13990.400 
+2312->2463['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -398.330 , -15003.400 
+2312->2464['74 in Molecule A: LYS']: -192.020 , -14672.700 
+2312->2465['81 in Molecule A: GLY']: -386.570 , -15090.600 
+2312->2466['108 in Molecule A: GLY']: -354.930 , -15100.900 
+2312->2467['108 in Molecule A: GLY']: 428.660 , -14032.800 
+2312->2468['129 in Molecule A: GLY', '130 in Molecule A: MET']: 139.810 , -14148.000 
+2312->2469['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -255.900 , -15114.700 
+2312->2470['74 in Molecule A: LYS']: -222.560 , -14917.200 
+2312->2471['81 in Molecule A: GLY']: 112.950 , -14215.000 
+2312->2472['81 in Molecule A: GLY']: -383.720 , -14916.900 
+2312->2473['74 in Molecule A: LYS']: -243.000 , -14808.200 
+2312->2474['112 in Molecule A: GLY']: 147.460 , -14367.000 
+2312->2475['130 in Molecule A: MET']: -322.450 , -14856.700 
+2312->2476['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 132.870 , -14412.300 
+2312->2477['130 in Molecule A: MET']: -365.300 , -14823.200 
+2312->2478['100 in Molecule A: GLY']: -359.180 , -14852.100 
+2312->2479['129 in Molecule A: GLY', '130 in Molecule A: MET']: -495.810 , -15086.300 
+2312->2480['74 in Molecule A: LYS']: 59.780 , -14448.000 
+2312->2481['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -304.980 , -14819.800 
+2312->2482['100 in Molecule A: GLY']: -426.380 , -14892.700 
+2312->2483['100 in Molecule A: GLY']: -347.630 , -15121.900 
+2312->2484['112 in Molecule A: GLY']: 282.870 , -14346.600 
+2312->2485['108 in Molecule A: GLY']: -357.600 , -14760.600 
+2312->2486['199 in Molecule A: LYS']: 0.410 , -14548.200 
+2312->2487['100 in Molecule A: GLY']: -371.870 , -14926.700 
+2312->2488['26 in Molecule A: GLY']: -389.520 , -14914.300 
+2312->2489['78 in Molecule A: ARG']: 172.930 , -14232.500 
+2312->2490['112 in Molecule A: GLY']: 422.260 , -13988.700 
+2312->2491['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -329.780 , -15168.500 
+2312->2492['129 in Molecule A: GLY', '130 in Molecule A: MET']: -399.910 , -15012.900 
+2312->2493['26 in Molecule A: GLY']: -343.680 , -15089.300 
+2312->2494['48 in Molecule A: TRP']: -266.960 , -14590.300 
+2312->2495['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -370.280 , -15131.100 
+2312->2496['108 in Molecule A: GLY']: -324.030 , -15133.700 
+2312->2497['129 in Molecule A: GLY']: 351.140 , -14260.900 
+2312->2498['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -218.290 , -14733.500 
+2312->2499['199 in Molecule A: LYS']: -259.630 , -14874.700 
+2312->2500['100 in Molecule A: GLY']: -367.740 , -14744.700 
+2312->2501['48 in Molecule A: TRP']: -48.750 , -14209.500 
+2312->2502['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -404.850 , -14792.900 
+2312->2503['199 in Molecule A: LYS']: -136.280 , -15033.500 
+2312->2504['81 in Molecule A: GLY']: -391.740 , -15097.400 
+2312->2505['199 in Molecule A: LYS']: -241.220 , -14794.000 
+2312->2506['74 in Molecule A: LYS']: 244.570 , -14167.000 
+2312->2507['110 in Molecule A: GLY', '112 in Molecule A: GLY']: 198.110 , -14111.200 
+2312->2508['199 in Molecule A: LYS']: -317.840 , -14998.800 
+2312->2509['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -160.310 , -14878.500 
+2312->2510['129 in Molecule A: GLY', '130 in Molecule A: MET']: -409.560 , -15000.400 
+2312->2511['112 in Molecule A: GLY']: -293.110 , -15019.900 
+2312->2512['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 281.940 , -14299.000 
+2312->2513['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -361.830 , -14946.900 
+2312->2514['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 412.390 , -14022.000 
+2312->2515['129 in Molecule A: GLY', '130 in Molecule A: MET']: -346.760 , -15053.200 
+2312->2516['48 in Molecule A: TRP']: 221.240 , -13822.400 
+2312->2517['78 in Molecule A: ARG']: -266.890 , -14818.800 
+2312->2518['129 in Molecule A: GLY']: -317.850 , -15023.300 
+2312->2519['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -355.830 , -15133.300 
+2312->2520['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -393.640 , -14913.800 
+2312->2521['78 in Molecule A: ARG', '79 in Molecule A: GLY']: 120.760 , -14389.900 
+2312->2522['79 in Molecule A: GLY', '80 in Molecule A: GLY']: 338.270 , -14490.700 
+2312->2523['74 in Molecule A: LYS']: -284.780 , -15076.100 
+2312->2524['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -396.990 , -15017.800 
+2312->2525['74 in Molecule A: LYS']: -91.540 , -14543.800 
+2312->2526['199 in Molecule A: LYS']: -269.710 , -14887.900 
+2312->2527['129 in Molecule A: GLY']: -379.280 , -15069.000 
+2312->2528['48 in Molecule A: TRP']: -338.680 , -14532.800 
+2312->2529['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 392.460 , -14004.100 
+2312->2530['112 in Molecule A: GLY']: 158.440 , -14566.700 
+2312->2531['199 in Molecule A: LYS']: -369.610 , -14931.200 
+2312->2532['48 in Molecule A: TRP']: -214.070 , -14705.100 
+2312->2533['48 in Molecule A: TRP']: -236.440 , -14761.100 
+2312->2534['78 in Molecule A: ARG']: -302.180 , -15039.400 
+2312->2535['79 in Molecule A: GLY', '80 in Molecule A: GLY']: -308.240 , -15110.900 
+2312->2536['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: 158.170 , -14264.900 
+2312->2537['48 in Molecule A: TRP']: 41.560 , -14034.000 
+2312->2538['130 in Molecule A: MET']: -363.500 , -14863.700 
+2312->2539['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -241.700 , -14690.300 
+2312->2540['129 in Molecule A: GLY', '130 in Molecule A: TRP']: 114.680 , -14193.200 
+2312->2541['26 in Molecule A: GLY']: -358.890 , -15017.100 
+2312->2542['199 in Molecule A: LYS']: -242.380 , -14845.600 
+2312->2543['100 in Molecule A: GLY']: 181.200 , -14614.100 
+2312->2544['112 in Molecule A: GLY']: -372.260 , -15030.700 
+2312->2545['48 in Molecule A: TRP']: -250.760 , -14793.100 
+2312->2546['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 185.550 , -14232.300 
+2312->2547['199 in Molecule A: LYS']: -339.450 , -14904.000 
+2312->2548['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -301.680 , -15125.000 
+2312->2549['199 in Molecule A: LYS']: -368.240 , -14682.200 
+2312->2550['79 in Molecule A: GLY']: 171.880 , -14668.200 
+2312->2551['129 in Molecule A: GLY', '130 in Molecule A: MET']: -415.510 , -15145.700 
+2312->2552['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -236.120 , -14710.400 
+2312->2553['108 in Molecule A: GLY', '110 in Molecule A: GLY']: 295.360 , -13925.500 
+2312->2554['129 in Molecule A: GLY', '130 in Molecule A: MET']: -412.490 , -15147.500 
+2312->2555['129 in Molecule A: GLY', '130 in Molecule A: MET']: -385.840 , -15088.200 
+2312->2556['129 in Molecule A: GLY', '130 in Molecule A: MET']: 202.850 , -14178.500 
+2312->2557['199 in Molecule A: LYS']: -304.550 , -15096.400 
+2312->2558['199 in Molecule A: LYS']: -151.660 , -14866.800 
+2312->2559['100 in Molecule A: GLY']: -404.170 , -14715.800 
+2312->2560['100 in Molecule A: GLY']: 248.660 , -14343.600 
+2312->2561['48 in Molecule A: TRP']: 226.540 , -13851.300 
+2312->2562['108 in Molecule A: GLY']: -297.920 , -14995.700 
+2312->2563['78 in Molecule A: ARG']: -298.200 , -14669.600 
+2312->2564['80 in Molecule A: GLY', '81 in Molecule A: GLY']: 90.950 , -14449.400 
+2312->2565['108 in Molecule A: GLY']: -339.950 , -14780.500 
+2312->2566['100 in Molecule A: GLY']: -399.570 , -14630.100 
+2312->2567['81 in Molecule A: GLY']: -425.670 , -15005.000 
+2312->2568['81 in Molecule A: GLY']: -347.290 , -15002.500 
+2312->2569['108 in Molecule A: GLY']: 109.540 , -14475.100 
+2312->2570['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -101.770 , -14765.100 
+2312->2571['129 in Molecule A: GLY', '130 in Molecule A: MET']: -366.470 , -14952.500 
+2312->2572['112 in Molecule A: GLY']: -363.710 , -14920.200 
+2312->2573['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -303.840 , -14823.000 
+2312->2574['48 in Molecule A: TRP']: 209.330 , -14126.000 
+2312->2575['129 in Molecule A: GLY', '130 in Molecule A: MET']: -447.790 , -15102.100 
+2312->2576['74 in Molecule A: LYS']: 385.490 , -14122.700 
+2312->2577['129 in Molecule A: GLY']: -383.500 , -15046.600 
+2312->2578['26 in Molecule A: GLY']: -299.010 , -15232.600 
+2312->2579['199 in Molecule A: LYS']: -281.060 , -14781.200 
+2312->2580['80 in Molecule A: GLY']: 119.340 , -14496.100 
+2312->2581['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -373.210 , -14945.400 
+2312->2582['112 in Molecule A: GLY']: -386.450 , -15050.300 
+2312->2583['81 in Molecule A: GLY']: -430.160 , -15006.600 
+2312->2584['129 in Molecule A: GLY']: 285.680 , -14225.800 
+2312->2585['78 in Molecule A: ARG']: 232.620 , -14092.400 
+2312->2586['129 in Molecule A: GLY']: -375.300 , -14874.600 
+2312->2587['79 in Molecule A: GLY']: 129.340 , -14338.600 
+2312->2588['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -368.340 , -14983.200 
+2312->2589['78 in Molecule A: ARG']: -202.610 , -14896.900 
+2312->2590['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -272.720 , -14961.900 
+2312->2591['110 in Molecule A: GLY']: -412.590 , -14866.700 
+2312->2592['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -308.620 , -14780.200 
+2312->2593['110 in Molecule A: GLY']: 256.440 , -14165.100 
+2312->2594['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 338.360 , -14279.000 
+2312->2595['26 in Molecule A: GLY']: -378.910 , -14930.300 
+2312->2596['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -280.610 , -14969.500 
+2312->2597['74 in Molecule A: LYS']: -87.040 , -14604.100 
+2312->2598['74 in Molecule A: LYS']: -188.400 , -14806.100 
+2312->2599['26 in Molecule A: GLY']: -376.560 , -15068.200 
+2312->2600['48 in Molecule A: TRP']: -265.690 , -14800.900 
+2312->2601['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -301.800 , -15106.500 
+2312->2602['81 in Molecule A: GLY']: 84.290 , -14285.500 
+2312->2603['108 in Molecule A: GLY', '110 in Molecule A: GLY', '112 in Molecule A: GLY']: 159.080 , -14123.400 
+2312->2604['110 in Molecule A: GLY']: -405.250 , -15192.400 
+2312->2605['112 in Molecule A: GLY']: -356.310 , -14937.800 
+2312->2606['112 in Molecule A: GLY']: -405.430 , -14715.500 
+2312->2607['48 in Molecule A: TRP']: -32.320 , -14235.400 
+2312->2608['129 in Molecule A: GLY', '130 in Molecule A: MET']: -337.580 , -14879.000 
+2312->2609['79 in Molecule A: GLY', '80 in Molecule A: GLY']: 122.390 , -14656.300 
+2312->2610['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -374.740 , -15194.600 
+2312->2611['81 in Molecule A: GLY']: -379.540 , -15065.200 
+2312->2612['108 in Molecule A: GLY']: -338.210 , -15065.100 
+2312->2613['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 255.280 , -14514.100 
+2312->2614['129 in Molecule A: GLY']: -373.230 , -15015.600 
+2312->2615['80 in Molecule A: GLY']: -326.640 , -15223.300 
+2312->2616['81 in Molecule A: GLY']: -399.660 , -14951.200 
+2312->2617['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -44.970 , -14135.600 
+2312->2618['78 in Molecule A: ARG']: -215.880 , -14776.800 
+2312->2619['108 in Molecule A: GLY']: -33.500 , -14539.900 
+2312->2620['26 in Molecule A: GLY']: -365.300 , -15033.100 
+2312->2621['78 in Molecule A: ARG']: 438.660 , -13683.200 
+2312->2622['129 in Molecule A: GLY', '130 in Molecule A: MET']: -328.320 , -14890.800 
+2312->2623['110 in Molecule A: GLY']: -391.170 , -15190.500 
+2312->2624['26 in Molecule A: GLY']: -383.850 , -15020.400 
+2312->2625['100 in Molecule A: GLY']: -374.350 , -14836.500 
+2312->2626['129 in Molecule A: GLY']: 217.940 , -14232.600 
+2312->2627['199 in Molecule A: LYS']: -229.220 , -14761.900 
+2312->2628['78 in Molecule A: ARG']: -215.070 , -14675.300 
+2312->2629['100 in Molecule A: GLY']: -97.180 , -14178.100 
+2312->2630['129 in Molecule A: GLY', '130 in Molecule A: MET']: 173.960 , -14364.400 
+2312->2631['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -308.890 , -15039.400 
+2312->2632['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -366.770 , -15099.900 
+2312->2633['129 in Molecule A: GLY', '130 in Molecule A: MET']: -389.530 , -15163.800 
+2312->2634['130 in Molecule A: MET']: 131.130 , -14391.600 
+2312->2635['26 in Molecule A: GLY']: -392.960 , -14736.900 
+2312->2636['112 in Molecule A: GLY']: 288.570 , -14011.100 
+2312->2637['48 in Molecule A: TRP']: -262.540 , -14785.500 
+2312->2638['112 in Molecule A: GLY']: -391.660 , -14945.400 
+2312->2639['79 in Molecule A: GLY']: 109.830 , -14490.000 
+2312->2640['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -367.770 , -15031.900 
+2312->2641['100 in Molecule A: GLY']: 186.790 , -13773.500 
+2312->2642['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -360.820 , -14924.500 
+2312->2643['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -312.270 , -15088.100 
+2312->2644['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -388.530 , -14891.700 
+2312->2645['108 in Molecule A: GLY']: -409.080 , -14942.800 
+2312->2646['74 in Molecule A: LYS']: 167.140 , -14113.900 
+2312->2647['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -339.860 , -14947.400 
+2312->2648['74 in Molecule A: LYS']: -127.800 , -14807.900 
+2312->2649['79 in Molecule A: GLY']: -460.040 , -14988.700 
+2312->2650['129 in Molecule A: GLY']: -353.410 , -15018.100 
+2312->2651['110 in Molecule A: GLY']: -389.200 , -14963.700 
+2312->2652['81 in Molecule A: GLY']: -426.670 , -14977.300 
+2312->2653['112 in Molecule A: GLY']: 213.730 , -14326.400 
+2312->2654['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -326.040 , -15147.100 
+2312->2655['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -272.160 , -14967.100 
+2312->2656['100 in Molecule A: GLY']: 141.060 , -14326.500 
+2312->2657['79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: 160.860 , -14698.600 
+2312->2658['108 in Molecule A: GLY', '110 in Molecule A: GLY']: -374.260 , -14894.200 
+2312->2659['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -267.070 , -14831.200 
+2312->2660['74 in Molecule A: LYS']: 333.360 , -14431.200 
+2312->2661['74 in Molecule A: LYS']: -207.620 , -14799.900 
+2312->2662['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -348.000 , -14949.200 
+2312->2663['130 in Molecule A: MET']: -314.120 , -15014.800 
+2312->2664['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -295.430 , -14949.900 
+2312->2665['199 in Molecule A: LYS']: 19.110 , -14519.700 
+2312->2666['100 in Molecule A: GLY']: 192.730 , -14066.600 
+2312->2667['199 in Molecule A: LYS']: -309.940 , -15068.800 
+2312->2668['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -337.660 , -15051.700 
+2312->2669['78 in Molecule A: ARG', '79 in Molecule A: GLY']: -299.440 , -14978.000 
+2312->2670['108 in Molecule A: GLY']: 309.980 , -14289.800 
+2312->2671['100 in Molecule A: GLY']: -385.260 , -14853.300 
+2312->2672['199 in Molecule A: LYS']: -265.800 , -15090.500 
+2312->2673['80 in Molecule A: GLY']: 288.010 , -14383.400 
+2312->2674['129 in Molecule A: GLY']: 459.460 , -13713.400 
+2312->2675['48 in Molecule A: TRP']: -233.750 , -14602.500 
+2312->2676['130 in Molecule A: MET']: -433.100 , -15042.100 
+2312->2677['100 in Molecule A: GLY']: -428.900 , -14861.400 
+2312->2678['110 in Molecule A: GLY']: 71.190 , -14425.700 
+2312->2679['100 in Molecule A: GLY']: -383.010 , -14629.100 
+2312->2680['81 in Molecule A: GLY']: -387.700 , -14946.600 
+2312->2681['110 in Molecule A: GLY']: 204.330 , -14224.300 
+2312->2682['26 in Molecule A: GLY']: -286.910 , -15059.500 
+2312->2683['48 in Molecule A: TRP']: -240.110 , -14852.900 
+2312->2684['112 in Molecule A: GLY']: 150.630 , -14359.500 
+2312->2685['112 in Molecule A: GLY']: -359.160 , -14918.700 
+2312->2686['129 in Molecule A: GLY', '130 in Molecule A: MET']: -438.720 , -14946.300 
+2312->2687['108 in Molecule A: GLY']: -363.730 , -15201.100 
+2312->2688['108 in Molecule A: GLY']: -312.190 , -15164.100 
+2686->2689['110 in Molecule A: GLY']: -466.250 , -15404.100 
+2312->2690['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 163.830 , -14948.300 
+2312->2691['130 in Molecule A: MET']: 149.780 , -14257.600 
+2686->2692['100 in Molecule A: GLY']: 247.950 , -14096.700 
+2686->2693['74 in Molecule A: LYS', '78 in Molecule A: ARG']: -192.640 , -14526.700 
+2689->2694['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -453.670 , -15150.500 
+2689->2695['108 in Molecule A: GLY']: -483.470 , -14994.600 
+2689->2696['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY', '81 in Molecule A: GLY']: -273.130 , -15052.400 
+2689->2697['199 in Molecule A: LYS']: 214.880 , -14704.500 
+2694->2698['199 in Molecule A: LYS']: -419.850 , -15417.500 
+2689->2699['74 in Molecule A: LYS']: 83.660 , -14702.000 
+2695->2700['100 in Molecule A: GLY']: -481.760 , -15069.500 
+2695->2701['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -510.520 , -15133.800 
+2695->2702['199 in Molecule A: LYS']: -437.320 , -15262.800 
+2695->2703['74 in Molecule A: LYS']: 349.240 , -14605.800 
+2695->2704['110 in Molecule A: GLY']: -389.740 , -15180.000 
+2695->2705['48 in Molecule A: TRP']: -360.610 , -15381.500 
+2695->2706['74 in Molecule A: LYS']: -235.670 , -14824.100 
+2695->2707['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: 321.860 , -14681.300 
+2695->2708['48 in Molecule A: TRP']: -383.890 , -15198.200 
+2695->2709['81 in Molecule A: GLY']: -456.460 , -14910.700 
+2695->2710['129 in Molecule A: GLY', '130 in Molecule A: TRP']: 95.860 , -14859.400 
+2695->2711['199 in Molecule A: LYS']: 249.480 , -13897.300 
+2695->2712['100 in Molecule A: GLY']: -438.390 , -15285.700 
+2695->2713['129 in Molecule A: GLY']: -401.910 , -15192.200 
+2695->2714['110 in Molecule A: GLY']: 1.070 , -15241.400 
+2695->2715['80 in Molecule A: GLY', '81 in Molecule A: GLY']: -497.740 , -15162.700 
+2695->2716['199 in Molecule A: LYS']: 87.090 , -14531.900 
+2695->2717['130 in Molecule A: MET']: -382.010 , -15152.700 
+2695->2718['74 in Molecule A: LYS']: -127.130 , -14606.700 
+2695->2719['78 in Molecule A: ARG', '79 in Molecule A: GLY', '80 in Molecule A: GLY']: -144.650 , -14860.300 
+2695->2720['130 in Molecule A: MET']: -417.840 , -14959.300 
+2695->2721['110 in Molecule A: GLY', '112 in Molecule A: GLY']: -373.310 , -15254.300 
